@@ -1,16 +1,13 @@
-This file is written in [GitHub Flavored Markdown syntax] [1]. 
+Written in GitHub Flavored Markdown syntax ([help on markdown](https://help.github.com/articles/github-flavored-markdown)).
 
 Rollcall
 ========
 
-Name and Organization
----------------------
+Name, Organization, and (optionally) Contact Info
+-------------------------------------------------
 
 * Stoney Jackson, Western New England University
-
-
-
-References
-==========
-
-[1]: https://help.github.com/articles/github-flavored-markdown    "GitHub Flavored Markdown"
+  * On GitHub: StoneyJackson
+  * On gmail: dr.stoney@gmail.com
+  * On wne: hjackson@wne.edu
+  * On IRC: (some variation of stoney or stoneyjackson)
