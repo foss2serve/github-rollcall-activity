@@ -3,6 +3,11 @@ git-activity
 
 A pre-POSSE activity to become familiar with Git and GitHub.
 
+Prerequisite
+============
+
+Complete http://try.github.com.
+
 Instructions
 ============
 
