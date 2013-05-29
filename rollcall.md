@@ -16,3 +16,8 @@ Name, Organization, and (optionally) Contact Info
   * on GitHub: HVFrancis
   * on upike: howardfrancis@upike.edu
   * on IRC: howardf
+
+* Peter Bui, University of Wisconsin - Eau Claire
+    * On GitHub, Bitbucket: pbui
+    * On uwec: buipj@uwec.edu
+    * On IRC: pnutzh4x0r
