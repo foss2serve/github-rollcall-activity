@@ -21,3 +21,6 @@ Name, Organization, and (optionally) Contact Info
     * On GitHub, Bitbucket: pbui
     * On uwec: buipj@uwec.edu
     * On IRC: pnutzh4x0r
+
+* Matt Lang, Moravian College
+    * Email: lang@moravian.edu
