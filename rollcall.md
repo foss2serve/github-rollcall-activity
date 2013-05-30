@@ -5,7 +5,14 @@ Rollcall
 
 Name, Organization, and (optionally) Contact Info
 -------------------------------------------------
+_Are we doing this in reverse alphabetical order?_
 
+* Samuel A. Rebelsky, Grinnell College
+  * On GitHub: rebelsky
+  * On EMail: rebelsky@grinnell.edu
+  * On IRC: rebelsky or sometimes srebelsky
+  * AFK: Dept. of CS, Grinnell College, 1116 8th Ave, Grinnell, IA  50112
+ 
 * Stoney Jackson, Western New England University
   * On GitHub: StoneyJackson
   * On gmail: dr.stoney@gmail.com
