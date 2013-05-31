@@ -31,3 +31,10 @@ _Are we doing this in reverse alphabetical order?_
 
 * Matt Lang, Moravian College
     * Email: lang@moravian.edu
+
+* Karl R. Wurst, Worcester State University
+    * GitHub: kwurst
+    * Email: kwurst@worcester.edu
+    * IRC: kwurst
+    * Bitbucket: kwurst
+
