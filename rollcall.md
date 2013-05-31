@@ -33,8 +33,8 @@ _Are we doing this in reverse alphabetical order?_
     * Email: lang@moravian.edu
 
 * Karl R. Wurst, Worcester State University
-    * GitHub: kwurst
+    * GitHub: [kwurst](https://github.com/kwurst)
+    * Bitbucket: [kwurst](https://bitbucket.org/kwurst)
     * Email: kwurst@worcester.edu
     * IRC: kwurst
-    * Bitbucket: kwurst
 
