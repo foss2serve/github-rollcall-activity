@@ -32,6 +32,9 @@ _Are we doing this in reverse alphabetical order?_
 * Matt Lang, Moravian College
     * Email: lang@moravian.edu
 
+* Ben Coleman, Moravian College
+    * Email: coleman@cs.moravian.edu
+
 * Karl R. Wurst, Worcester State University
     * GitHub: [kwurst](https://github.com/kwurst)
     * Bitbucket: [kwurst](https://bitbucket.org/kwurst)
