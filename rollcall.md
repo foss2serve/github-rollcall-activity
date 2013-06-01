@@ -41,3 +41,5 @@ _Are we doing this in reverse alphabetical order?_
     * Email: kwurst@worcester.edu
     * IRC: kwurst
 
+* JoAnne Taormina, Nassau Community College
+    * On GitHub: joannet
