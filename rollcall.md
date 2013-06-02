@@ -43,3 +43,7 @@ _Are we doing this in reverse alphabetical order?_
 
 * JoAnne Taormina, Nassau Community College
     * On GitHub: joannet
+
+* Esmail Bonakdarian, Dominican University
+    * On GitHub: ebonak
+    * IRC: esmail
