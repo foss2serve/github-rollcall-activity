@@ -47,3 +47,9 @@ _Are we doing this in reverse alphabetical order?_
 * Esmail Bonakdarian, Dominican University
     * On GitHub: ebonak
     * IRC: esmail
+
+* Sonal Dekhane, Georgia Gwinnett College
+    * Email: sdekhane@ggc.edu
+    * Github: ssdGGC
+    * IRC: sonal
+
