@@ -53,3 +53,5 @@ _Are we doing this in reverse alphabetical order?_
     * Github: ssdGGC
     * IRC: sonal
 
+* Justin Miller, UW-Oshkosh
+    * On GitHub: millerju
