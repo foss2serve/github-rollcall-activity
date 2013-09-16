@@ -55,3 +55,8 @@ _Are we doing this in reverse alphabetical order?_
 
 * Justin Miller, UW-Oshkosh
     * On GitHub: millerju
+
+* Michael Smola, Western New England University
+    * On GitHub: msmola1992
+    * On wne: michael.smola@wne.edu
+    * On IRC: MikeS
