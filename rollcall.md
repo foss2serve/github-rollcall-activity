@@ -61,7 +61,7 @@ _Are we doing this in reverse alphabetical order?_
     * On wne: michael.smola@wne.edu
     * On IRC: MikeS
 
-*Tiago Duarte, Western New England University
+* Tiago Duarte, Western New England University
     * Email: tduarte8@gmail.com
     * GitHub:TDuarte8
     * IRC:   TeegsD
