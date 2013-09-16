@@ -60,3 +60,8 @@ _Are we doing this in reverse alphabetical order?_
     * On GitHub: msmola1992
     * On wne: michael.smola@wne.edu
     * On IRC: MikeS
+
+* Scott Cunningham, Western New England University
+    * GitHub: sc305495
+    * Email:  Scott123@gmail.com / sc305495@wne.edu
+    * IRC:    Scott C
