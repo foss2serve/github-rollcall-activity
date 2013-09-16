@@ -65,3 +65,9 @@ _Are we doing this in reverse alphabetical order?_
     * GitHub: sc305495
     * Email:  Scott123@gmail.com / sc305495@wne.edu
     * IRC:    Scott C
+
+* Logan Hotchkiss, Western New England University
+    * On GitHub: lhotchkiss
+    * On WNE: logan.hotchkiss@wne.edu
+    * On gmail: lhotchkiss17@gmail.com
+    * IRC:    LoganH
