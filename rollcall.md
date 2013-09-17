@@ -71,3 +71,9 @@ _Are we doing this in reverse alphabetical order?_
     * On WNE: logan.hotchkiss@wne.edu
     * On gmail: lhotchkiss17@gmail.com
     * IRC:    LoganH
+
+* Roland Murdock, Western New England University
+    * On GitHub: rmurdock90
+    * On Yahoo: rmurdock90@yahoo.com
+    * On WNE roland.murdock@wne.edu
+    * IRC: Data
