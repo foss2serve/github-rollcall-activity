@@ -77,3 +77,8 @@ _Are we doing this in reverse alphabetical order?_
     * On Yahoo: rmurdock90@yahoo.com
     * On WNE roland.murdock@wne.edu
     * IRC: Data
+
+* Lori Postner, Nassau Community College
+    * On GitHub: lpostner
+    * Email: lori.postner@ncc.edu
+    * IRC: lorip
