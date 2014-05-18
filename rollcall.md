@@ -7,6 +7,12 @@ Name, Organization, and (optionally) Contact Info
 -------------------------------------------------
 _Are we doing this in reverse alphabetical order?_
 
+* Razvan Alex. Mezei, Lenoir-Rhyne University
+  * On GitHub: rmezei
+  * On EMail: razvan.mezei@lr.edu
+  * On IRC: alex_rmezei
+
+
 * Samuel A. Rebelsky, Grinnell College
   * On GitHub: rebelsky
   * On EMail: rebelsky@grinnell.edu
