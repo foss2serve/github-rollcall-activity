@@ -88,3 +88,8 @@ _Are we doing this in reverse alphabetical order?_
     * On GitHub: lpostner
     * Email: lori.postner@ncc.edu
     * IRC: lorip
+
+* Fulya Koc, Western New England University
+    * GitHub: xsuisenx
+    * Email: fulyakoc@me.com
+    * IRC: suisen
