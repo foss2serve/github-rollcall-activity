@@ -93,3 +93,8 @@ _Are we doing this in reverse alphabetical order?_
     * GitHub: xsuisenx
     * Email: fulyakoc@me.com
     * IRC: suisen
+ 
+* Alexander Breau, Western New England University
+    * GitHub: AlexBreau
+    * Email: ab317289@wne.edu
+    * IRC: alexanderb
