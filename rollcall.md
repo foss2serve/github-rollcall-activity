@@ -98,3 +98,9 @@ _Are we doing this in reverse alphabetical order?_
     * GitHub: AlexBreau
     * Email: ab317289@wne.edu
     * IRC: alexanderb
+    
+
+* William Agoh, Western New England University
+    * Github: WilliamAgoh
+    * Email: agohwill@gmail.com
+    * IRC : williamagoh
