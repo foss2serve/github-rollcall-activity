@@ -341,3 +341,8 @@ _Are we doing this in reverse alphabetical order?_ _Apparently not_
 * Nanette Veilleux, Simmons College
 	* GitHub: veilleux
 	* Email: veilleux@simmons.edu	
+
+* Adam Devigili, Western New England University
+    * Github: AdamDevigili
+    * Email: adam.devigili@gmail.com
+    * IRC : AdamDevigili
