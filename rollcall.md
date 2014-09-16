@@ -104,3 +104,8 @@ _Are we doing this in reverse alphabetical order?_
     * Github: WilliamAgoh
     * Email: agohwill@gmail.com
     * IRC : williamagoh
+    * 
+* Adam Devigili, Western New England University
+    * Github: AdamDevigili
+    * Email: adam.devigili@gmail.com
+    * IRC : AdamDevigili
