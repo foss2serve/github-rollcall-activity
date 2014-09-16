@@ -104,3 +104,8 @@ _Are we doing this in reverse alphabetical order?_
     * Github: WilliamAgoh
     * Email: agohwill@gmail.com
     * IRC : williamagoh
+
+*Andrew Galisa, Western New England University
+    *GitHub: jazzdaddywham
+    *Email:  ag316810@wne.edu 
+    *IRC:    andrewgalisa
