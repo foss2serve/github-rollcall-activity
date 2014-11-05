@@ -7,6 +7,11 @@ Name, Organization, and (optionally) Contact Info
 -------------------------------------------------
 _Are we doing this in reverse alphabetical order?_
 
+* Swapneel Sheth, University of Pennsylvania
+	* On GitHub: swapneelsheth
+	* on EMail: swapneel@cis.upenn.edu
+	* On IRC: swapneel
+	
 * Razvan Alex. Mezei, Lenoir-Rhyne University
   * On GitHub: rmezei
   * On EMail: razvan.mezei@lr.edu
