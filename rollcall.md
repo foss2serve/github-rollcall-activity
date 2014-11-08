@@ -7,6 +7,11 @@ Name, Organization, and (optionally) Contact Info
 -------------------------------------------------
 _Are we doing this in reverse alphabetical order?_
 
+* Chris Murphy, University of Pennsylvania
+	* On GitHub: clwydboy
+	* on EMail: cdmurphy@seas.upenn.edu
+	* On IRC: ChrisMurphy
+
 * Ruby ElKharboutly, Quinnipiac University
 	* On GitHub: robik123
 	* on EMail: ruby.elkharboutly@quinnipiac.edu
