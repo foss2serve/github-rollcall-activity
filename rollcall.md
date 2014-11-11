@@ -129,6 +129,6 @@ _Are we doing this in reverse alphabetical order?_
     *IRC:    andrewgalisa
     
 * Baochuan Lu, Southwest Baptist University
-    *GitHub: lubaochuan
-    *Email:  blu@sbuniv.edu 
-    *IRC:    lubaochuan
+    * GitHub: lubaochuan
+    * Email:  blu@sbuniv.edu 
+    * IRC:    lubaochuan
