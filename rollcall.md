@@ -11,7 +11,7 @@ _Are we doing this in reverse alphabetical order?_
 	* On Email: meghana AT cs.ubc.ca
 	
 * Chris Murphy, University of Pennsylvania
-	* On GitHub: clwydboy
+	* On GitHub: ChrisMurphyOnline
 	* on EMail: cdmurphy@seas.upenn.edu
 	* On IRC: ChrisMurphy
 
