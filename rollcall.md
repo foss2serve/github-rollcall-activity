@@ -15,6 +15,9 @@ _Are we doing this in reverse alphabetical order?_
 	* on EMail: cdmurphy@seas.upenn.edu
 	* On IRC: ChrisMurphy
 
+* Steven P. Crain, SUNY Plattsburgh
+	* On GitHub: scrain777
+
 * Ruby ElKharboutly, Quinnipiac University
 	* On GitHub: robik123
 	* on EMail: ruby.elkharboutly@quinnipiac.edu
