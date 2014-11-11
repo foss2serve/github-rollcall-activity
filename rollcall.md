@@ -127,3 +127,8 @@ _Are we doing this in reverse alphabetical order?_
     *GitHub: jazzdaddywham
     *Email:  ag316810@wne.edu 
     *IRC:    andrewgalisa
+    
+* Baochuan Lu, Southwest Baptist University
+    *GitHub: lubaochuan
+    *Email:  blu@sbuniv.edu 
+    *IRC:    lubaochuan
