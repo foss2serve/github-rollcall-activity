@@ -135,3 +135,9 @@ _Are we doing this in reverse alphabetical order?_
     * GitHub: lubaochuan
     * Email:  blu@sbuniv.edu 
     * IRC:    lubaochuan
+
+* Ed Mirielli, Westminster College
+    * GitHub: EdMirielliFOSS
+    * Email:  edmiriellifoss@gmail.com 
+    * IRC:    edMirielli
+
