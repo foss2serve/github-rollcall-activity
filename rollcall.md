@@ -141,3 +141,6 @@ _Are we doing this in reverse alphabetical order?_
     * Email:  edmiriellifoss@gmail.com 
     * IRC:    edMirielli
 
+* Lynn Lambert
+	* GitHub: lynnlambert
+	* Email: llambert@cnu.edu
