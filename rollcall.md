@@ -144,3 +144,7 @@ _Are we doing this in reverse alphabetical order?_
 * Lynn Lambert
 	* GitHub: lynnlambert
 	* Email: llambert@cnu.edu
+
+* Sean Workman, Christopher Newport University
+    * GitHub: SeanWorkman
+    * Email:  sean.workman.14@cnu.edu
