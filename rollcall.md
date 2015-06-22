@@ -7,6 +7,11 @@ Name, Organization, and (optionally) Contact Info
 -------------------------------------------------
 _Are we doing this in reverse alphabetical order?_
 
+* Alan Rea, Western Michigan University
+	* GitHub: docrea [https://github.com/docrea/]
+	* Email: rea@wmich.edu || rea@acm.org
+	* IRC: docrea
+
 * Meghan Allen, University of British Columbia
 	* On Email: meghana AT cs.ubc.ca
 	
@@ -144,3 +149,7 @@ _Are we doing this in reverse alphabetical order?_
 * Lynn Lambert
 	* GitHub: lynnlambert
 	* Email: llambert@cnu.edu
+
+* Sean Workman, Christopher Newport University
+    * GitHub: SeanWorkman
+    * Email:  sean.workman.14@cnu.edu
