@@ -153,3 +153,8 @@ _Are we doing this in reverse alphabetical order?_
 * Sean Workman, Christopher Newport University
     * GitHub: SeanWorkman
     * Email:  sean.workman.14@cnu.edu
+     
+* Kate Lockwood, University of St. Thomas
+	* GitHub: KateLockwood
+	* Email: aklockwood@stthomas.edu
+	* IRC: aklockwood
