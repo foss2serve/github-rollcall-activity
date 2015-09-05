@@ -158,3 +158,7 @@ _Are we doing this in reverse alphabetical order?_
 	* GitHub: KateLockwood
 	* Email: aklockwood@stthomas.edu
 	* IRC: aklockwood
+
+* Linda Webster, Westminster College
+	* GitHub:  LindaDWebster
+	* Email:  linda.webster@westminster-mo.edu
