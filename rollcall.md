@@ -162,3 +162,8 @@ _Are we doing this in reverse alphabetical order?_
 * Linda Webster, Westminster College
 	* GitHub:  LindaDWebster
 	* Email:  linda.webster@westminster-mo.edu
+
+* Emily Lovell, University of California at Santa Cruz
+	* GitHub: emmet0r
+	* Email: emme@soe.ucsc.edu
+	* IRC: emme
