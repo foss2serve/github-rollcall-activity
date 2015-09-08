@@ -93,7 +93,7 @@ _Are we doing this in reverse alphabetical order?_
     * On wne: michael.smola@wne.edu
     * On IRC: MikeS
 
-* Scott Cunningham, Western New England University
+* Rob Sjodin, Regis University
     * GitHub: rsjodin
     * Email:  rsjodin@regis.edu
     * IRC:    rsjodin
