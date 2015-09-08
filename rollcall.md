@@ -172,4 +172,6 @@ _Are we doing this in reverse alphabetical order?_
 	* GitHub: joetgish
 	* Email: jwelch@hartnell.edu
 	* IRC: wjwelch
-	
+* Nanette Veilleux, Simmons College
+	* GitHub: veilleux
+	* Email: veilleux@simmons.edu	
