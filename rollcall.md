@@ -167,3 +167,9 @@ _Are we doing this in reverse alphabetical order?_
 	* GitHub: emmet0r
 	* Email: emme@soe.ucsc.edu
 	* IRC: emme
+
+* Joe Welch, Hartnell College
+	* GitHub: joetgish
+	* Email: jwelch@hartnell.edu
+	* IRC: wjwelch
+	
