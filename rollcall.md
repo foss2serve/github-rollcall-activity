@@ -173,3 +173,8 @@ _Are we doing this in reverse alphabetical order?_
 	* Email: jwelch@hartnell.edu
 	* IRC: wjwelch
 	
+* Jean French, Coastal Carolina University
+	* GitHub: DrFrench
+	* Email: jennis@coastal.edu
+	* IRC: jfrench
+	
