@@ -177,4 +177,9 @@ _Are we doing this in reverse alphabetical order?_
 	* GitHub: DrFrench
 	* Email: jennis@coastal.edu
 	* IRC: jfrench
+
+* Stefan Christov, Quinnipiac University
+	* GitHub: christov
+	* Email: schristov at quinnipiac dot edu
+	* IRC: stefan_c
 	
