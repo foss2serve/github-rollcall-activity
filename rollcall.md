@@ -174,7 +174,7 @@ _Are we doing this in reverse alphabetical order?_
 	* IRC: wjwelch
 	
 * Jean French, Coastal Carolina University
-	* GitHub: QueenOfStarWars
+	* GitHub: DrFrench
 	* Email: jennis@coastal.edu
 	* IRC: jfrench
 	
