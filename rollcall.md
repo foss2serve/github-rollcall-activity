@@ -163,6 +163,11 @@ _Are we doing this in reverse alphabetical order?_
 	* GitHub:  LindaDWebster
 	* Email:  linda.webster@westminster-mo.edu
 
+* Dee Weikle, Eastern Mennonite University
+	* GitHub: DWeikle or dweikle
+	* Email: dee.weikle@emu.edu
+	* IRC: dweikle
+
 * Emily Lovell, University of California at Santa Cruz
 	* GitHub: emmet0r
 	* Email: emme@soe.ucsc.edu
