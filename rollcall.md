@@ -188,3 +188,6 @@ _Are we doing this in reverse alphabetical order?_
 	* Email: schristov at quinnipiac dot edu
 	* IRC: stefan_c
 	
+* Andrea Tartaro, Furman University
+	* GitHub: andreatartaro
+	* Email: andrea.tartaro@furman.edu
