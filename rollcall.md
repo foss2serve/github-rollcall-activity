@@ -7,6 +7,10 @@ Name, Organization, and (optionally) Contact Info
 -------------------------------------------------
 _Are we doing this in reverse alphabetical order?_
 
+* Karen Alkkoby, Gallaudet University
+	* on Email: karen.alkoby@gallaudet.edu
+	* IRC: kalkoby
+
 * Alan Rea, Western Michigan University
 	* GitHub: docrea [https://github.com/docrea/]
 	* Email: rea@wmich.edu || rea@acm.org
