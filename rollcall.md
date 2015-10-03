@@ -7,7 +7,7 @@ Name, Organization, and (optionally) Contact Info
 -------------------------------------------------
 _Are we doing this in reverse alphabetical order?_
 
-* Karen Alkkoby, Gallaudet University
+* Karen Alkoby, Gallaudet University
 	* on Email: karen.alkoby@gallaudet.edu
 	* IRC: kalkoby
 
