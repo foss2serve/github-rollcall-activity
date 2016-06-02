@@ -7,6 +7,11 @@ Name, Organization, and (optionally) Contact Info
 -------------------------------------------------
 _Are we doing this in reverse alphabetical order?_
 
+* Dale Skrien, Colby College
+	* Email: djskrien@colby.edu
+	* IRC: djskrien
+	* GitHub: djskrien
+
 * Karen Alkoby, Gallaudet University
 	* on Email: karen.alkoby@gallaudet.edu
 	* IRC: kalkoby
