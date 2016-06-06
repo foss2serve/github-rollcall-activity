@@ -140,10 +140,10 @@ _Are we doing this in reverse alphabetical order?_
     * Email: agohwill@gmail.com
     * IRC : williamagoh
 
-*Andrew Galisa, Western New England University
-    *GitHub: jazzdaddywham
-    *Email:  ag316810@wne.edu 
-    *IRC:    andrewgalisa
+* Andrew Galisa, Western New England University
+    * GitHub: jazzdaddywham
+    * Email:  ag316810@wne.edu 
+    * IRC:    andrewgalisa
     
 * Baochuan Lu, Southwest Baptist University
     * GitHub: lubaochuan
@@ -158,6 +158,10 @@ _Are we doing this in reverse alphabetical order?_
 * Lynn Lambert
 	* GitHub: lynnlambert
 	* Email: llambert@cnu.edu
+
+* Jiang (Leo) Li
+	* GitHub: lijleo
+	* Email: lij [at] scs [dot) howard.edu
 
 * Sean Workman, Christopher Newport University
     * GitHub: SeanWorkman
