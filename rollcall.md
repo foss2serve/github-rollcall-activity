@@ -159,6 +159,10 @@ _Are we doing this in reverse alphabetical order?_
 	* GitHub: lynnlambert
 	* Email: llambert@cnu.edu
 
+* Jiang (Leo) Li
+	* GitHub: lijleo
+	* Email: lij [at] scs [dot) howard.edu
+
 * Sean Workman, Christopher Newport University
     * GitHub: SeanWorkman
     * Email:  sean.workman.14@cnu.edu
