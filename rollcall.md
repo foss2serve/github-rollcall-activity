@@ -205,7 +205,7 @@ _Are we doing this in reverse alphabetical order?_
 	* GitHub: andreatartaro
 	* Email: andrea.tartaro@furman.edu
 
-Tim Wahls, Dickinson College
+* Tim Wahls, Dickinson College
         * GitHub: wahlst
         * Email: wahlst@dickinson.edu
         * IRC: wahlst
