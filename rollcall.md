@@ -206,6 +206,6 @@ _Are we doing this in reverse alphabetical order?_
 	* Email: andrea.tartaro@furman.edu
 
 * Tim Wahls, Dickinson College
-        * GitHub: wahlst
-        * Email: wahlst@dickinson.edu
-        * IRC: wahlst
+	* GitHub: wahlst
+	* Email: wahlst@dickinson.edu
+	* IRC: wahlst
