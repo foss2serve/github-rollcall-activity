@@ -214,3 +214,8 @@ _Are we doing this in reverse alphabetical order?_
 	* GitHub: jmac@dickinson.edu
 	* Email: jmac@dickinson.edu
 	* IRC: jmac
+
+* Grant Braught, Dickinson College
+	* GitHub: bruaughtg
+	* Email: braught@dickinson.edu
+	* IRC: braught
