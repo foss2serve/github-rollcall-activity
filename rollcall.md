@@ -209,3 +209,8 @@ _Are we doing this in reverse alphabetical order?_
 	* GitHub: wahlst
 	* Email: wahlst@dickinson.edu
 	* IRC: wahlst
+	
+* John MacCormick, Dickinson College
+	* GitHub: jmac@dickinson.edu
+	* Email: jmac@dickinson.edu
+	* IRC: jmac
