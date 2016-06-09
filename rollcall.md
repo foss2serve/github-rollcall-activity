@@ -224,3 +224,9 @@ _Are we doing this in reverse alphabetical order?_ _Apparently not_
 	* GitHub: bruaughtg
 	* Email: braught@dickinson.edu
 	* IRC: braught
+
+
+* Michael Skalak, Dickinson College
+	* GitHub: skalakm
+	* Email: skalakm@dickinson.edu
+	* IRC: mss
