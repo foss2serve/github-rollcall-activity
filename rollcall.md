@@ -5,7 +5,12 @@ Rollcall
 
 Name, Organization, and (optionally) Contact Info
 -------------------------------------------------
-_Are we doing this in reverse alphabetical order?_
+_Are we doing this in reverse alphabetical order?_ _Apparently not_
+
+* Janet Davis, Whitman College
+	* Email: davisj@whitman.edu
+	* IRC: janet_
+	* GitHub: janetlndavis (I'm jealous of you all with unusual last names)
 
 * Dale Skrien, Colby College
 	* Email: djskrien@colby.edu
