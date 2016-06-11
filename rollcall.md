@@ -230,3 +230,8 @@ _Are we doing this in reverse alphabetical order?_ _Apparently not_
 	* GitHub: skalakm
 	* Email: skalakm@dickinson.edu
 	* IRC: mss
+
+* John Barr, Ithaca College
+	* GitHub: barrj
+	* Email: barr@ithaca.edu
+	* IRC: ithabarr
