@@ -7,6 +7,11 @@ Name, Organization, and (optionally) Contact Info
 -------------------------------------------------
 _Are we doing this in reverse alphabetical order?_ _Apparently not_
 
+* George Thomas, University of Wisconsin Oshkosh
+	* Email: thomasg@uwosh.edu
+	* IRC: gt3267
+	* GitHub: gt3267
+	
 * Janet Davis, Whitman College
 	* Email: davisj@whitman.edu
 	* IRC: janet_
