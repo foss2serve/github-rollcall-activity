@@ -245,3 +245,7 @@ _Are we doing this in reverse alphabetical order?_ _Apparently not_
 	* GitHub: rmccleary
 	* Email: ron.mccleary@avila.edu
 	* IRC: rmccleary
+
+* John Rager, Amherst College
+	* Email: jer@cs.amherst.edu
+	* IRC:	JohnRager
