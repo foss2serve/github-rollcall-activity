@@ -249,3 +249,9 @@ _Are we doing this in reverse alphabetical order?_ _Apparently not_
 * John Rager, Amherst College
 	* Email: jer@cs.amherst.edu
 	* IRC:	JohnRager
+	
+* Bo Brinkman, Miami University
+	* Email: brinkmwj@miamioh.edu
+	* GitHub: drbobrinkman
+	* Twitter: drbobrinkman
+	
