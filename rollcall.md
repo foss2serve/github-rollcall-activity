@@ -236,6 +236,11 @@ _Are we doing this in reverse alphabetical order?_ _Apparently not_
 	* Email: skalakm@dickinson.edu
 	* IRC: mss
 
+* Simon Sultana, Fresno Pacific University
+	* GitHub: sgsultana
+	* Email: sgsultana@gmail.com
+	* IRC: Sgsultana
+
 * John Barr, Ithaca College
 	* GitHub: barrj
 	* Email: barr@ithaca.edu
