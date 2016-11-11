@@ -260,3 +260,7 @@ _Are we doing this in reverse alphabetical order?_ _Apparently not_
 	* GitHub: drbobrinkman
 	* Twitter: drbobrinkman
 	
+* Krish Narayanan, Eastern Michigan University
+	* Email: knarayan@emich.edu
+	* GitHub: knarayan-emich
+	* IRC: krish
