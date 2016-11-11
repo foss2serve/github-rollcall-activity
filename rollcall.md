@@ -264,3 +264,8 @@ _Are we doing this in reverse alphabetical order?_ _Apparently not_
 	* Email: knarayan@emich.edu
 	* GitHub: knarayan-emich
 	* IRC: krish
+
+* Matt Jadud, Berea College
+	* Email: jadudm@berea.edu
+	* GitHub: jadudm
+	* IRC: jadudm
