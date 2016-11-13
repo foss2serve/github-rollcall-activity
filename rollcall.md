@@ -269,3 +269,8 @@ _Are we doing this in reverse alphabetical order?_ _Apparently not_
 	* Email: jadudm@berea.edu
 	* GitHub: jadudm
 	* IRC: jadudm
+
+* Jan Pearce, Berea College
+	* Email: pearcej@berea.edu
+	* GitHub: pearcej
+	* IRC: pearcej
