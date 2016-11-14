@@ -274,3 +274,8 @@ _Are we doing this in reverse alphabetical order?_ _Apparently not_
 	* Email: pearcej@berea.edu
 	* GitHub: pearcej
 	* IRC: pearcej
+
+* Mario Nakazawa, Berea College
+	* Email: nakazawam@berea.edu
+	* GitHub: mario-nakazawa
+	* IRC: nakazawa
