@@ -279,3 +279,8 @@ _Are we doing this in reverse alphabetical order?_ _Apparently not_
 	* Email: nakazawam@berea.edu
 	* GitHub: mario-nakazawa
 	* IRC: nakazawa
+
+* Scott Heggen, Berea College
+	* Email: heggens@berea.edu
+	* GitHub: sheggen
+	* IRC: sheggen
