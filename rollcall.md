@@ -284,3 +284,8 @@ _Are we doing this in reverse alphabetical order?_ _Apparently not_
 	* Email: heggens@berea.edu
 	* GitHub: sheggen
 	* IRC: sheggen
+
+* Birgit Penzenstadler, California State University Long Beach
+	* Email: birgit.penzenstadler@csulb.edu
+	* Github: kamikitty
+	* Twitter: twinkleflip
