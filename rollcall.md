@@ -293,3 +293,8 @@ _Are we doing this in reverse alphabetical order?_ _Apparently not_
 * Jody Paul, Metropolitan State University of Denver
 	* Email: jody@cs.msudenver.edu
 	* Github: jody
+
+* Mark Gondree, Sonoma State University
+	* Twitter: mgondree
+	* GitHub: gondree
+
