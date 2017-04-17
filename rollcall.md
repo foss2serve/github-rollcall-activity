@@ -298,3 +298,7 @@ _Are we doing this in reverse alphabetical order?_ _Apparently not_
 	* Twitter: mgondree
 	* GitHub: gondree
 
+* Tacksoo Im, Georgia Gwinnett College
+	* Email: tim@ggc.edu
+	* GitHub: tacksoo
+	* IRC: tacksoo
