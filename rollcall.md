@@ -7,6 +7,11 @@ Name, Organization, and (optionally) Contact Info
 -------------------------------------------------
 _Are we doing this in reverse alphabetical order?_ _Apparently not_
 
+* Becka Morgan, Western Oregon University
+	* Email: morganb@wou.edu
+	* IRC: becka
+	* GitHub: beckamorgan
+	
 * George Thomas, University of Wisconsin Oshkosh
 	* Email: thomasg@uwosh.edu
 	* IRC: gt3267
