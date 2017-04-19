@@ -302,3 +302,8 @@ _Are we doing this in reverse alphabetical order?_ _Apparently not_
 	* Email: tim@ggc.edu
 	* GitHub: tacksoo
 	* IRC: tacksoo
+
+* Garrett Poppe
+	* Email: gpoppe@csudh.edu
+	* GitHub: gpoppe
+
