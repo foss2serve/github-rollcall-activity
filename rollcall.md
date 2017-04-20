@@ -307,6 +307,12 @@ _Are we doing this in reverse alphabetical order?_ _Apparently not_
 	* Email:  pmasson@albany.edu
 	* GitHub: profmasson
 	* IRC: OSIMasson
+  
 * Roberto Hoyle, Oberlin College
   	* Email: rhoyle@oberlin.edu
         * GitHub: rjhoyle
+	
+* Janet Burge, Colorado College
+	* Email: jburge@coloradocollege.edu
+	* GitHub: burgeje
+	* IRC: jburge
