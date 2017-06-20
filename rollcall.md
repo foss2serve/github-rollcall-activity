@@ -312,3 +312,9 @@ _Are we doing this in reverse alphabetical order?_ _Apparently not_
 	* Email: jburge@coloradocollege.edu
 	* GitHub: burgeje
 	* IRC: jburge
+
+* Marcos Sanchez-Elez, Universidad Complutense de Madrid
+	* Email: marcos@ucm.es
+	* GitHub: mselezm
+	* IRC: mselezm
+
