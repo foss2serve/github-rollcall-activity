@@ -6,7 +6,10 @@ Rollcall
 Name, Organization, and (optionally) Contact Info
 -------------------------------------------------
 _Are we doing this in reverse alphabetical order?_ _Apparently not_
-
+* Samah Al Sabbagh, Reach Out to Asia/Education Above All
+	* Email: salsabbagh@eaa.org.qa
+	* IRC: salsabbagh
+	
 * George Thomas, University of Wisconsin Oshkosh
 	* Email: thomasg@uwosh.edu
 	* IRC: gt3267
