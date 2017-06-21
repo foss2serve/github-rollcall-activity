@@ -337,3 +337,7 @@ _Are we doing this in reverse alphabetical order?_ _Apparently not_
 	* Email: morganb@wou.edu
 	* IRC: becka
 	* GitHub: beckamorgan
+
+* Nanette Veilleux, Simmons College
+	* GitHub: veilleux
+	* Email: veilleux@simmons.edu	
