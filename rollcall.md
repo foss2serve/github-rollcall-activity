@@ -321,3 +321,7 @@ _Are we doing this in reverse alphabetical order?_ _Apparently not_
 	* GitHub: mselezm
 	* IRC: mselezm
 
+* Mark Zarb, Robert Gordon University
+	* Email: m.zarb@rgu.ac.uk
+	* GitHub: mzarb
+	* IRC: MZarb
