@@ -351,3 +351,9 @@ _Are we doing this in reverse alphabetical order?_ _Apparently not_
     * On GitHub: mrclean1214
     * Email: mrclean1214@gmail.com
     * IRC: Ian McLean
+
+* Trevor Breton, Western New England University
+    * On GitHub: TrevorBreton
+    * On gmail: trevorsbreton@gmail.com 
+    * IRC:    Trevor_B
+
