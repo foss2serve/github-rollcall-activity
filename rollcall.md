@@ -5,64 +5,60 @@ Rollcall
 
 Name, Organization, and (optionally) Contact Info
 -------------------------------------------------
-_Are we doing this in reverse alphabetical order?_ _Apparently not_
-<<<<<<< HEAD
+
 * Samah Al Sabbagh, Reach Out to Asia/Education Above All
-	* Email: salsabbagh@eaa.org.qa
-	* IRC: salsabbagh
-=======
->>>>>>> 432f6f32fa605aebf3caca91258c18baa9d04ae0
-	
+    * Email: salsabbagh@eaa.org.qa
+    * IRC: salsabbagh
+
 * George Thomas, University of Wisconsin Oshkosh
-	* Email: thomasg@uwosh.edu
-	* IRC: gt3267
-	* GitHub: gt3267
-	
+    * Email: thomasg@uwosh.edu
+    * IRC: gt3267
+    * GitHub: gt3267
+
 * Janet Davis, Whitman College
-	* Email: davisj@whitman.edu
-	* IRC: janet_
-	* GitHub: janetlndavis (I'm jealous of you all with unusual last names)
+    * Email: davisj@whitman.edu
+    * IRC: janet_
+    * GitHub: janetlndavis (I'm jealous of you all with unusual last names)
 
 * Dale Skrien, Colby College
-	* Email: djskrien@colby.edu
-	* IRC: djskrien
-	* GitHub: djskrien
+    * Email: djskrien@colby.edu
+    * IRC: djskrien
+    * GitHub: djskrien
 
 * Karen Alkoby, Gallaudet University
-	* on Email: karen.alkoby@gallaudet.edu
-	* IRC: kalkoby
+    * on Email: karen.alkoby@gallaudet.edu
+    * IRC: kalkoby
 
 * Alan Rea, Western Michigan University
-	* GitHub: docrea [https://github.com/docrea/]
-	* Email: rea@wmich.edu || rea@acm.org
-	* IRC: docrea
+    * GitHub: docrea [https://github.com/docrea/]
+    * Email: rea@wmich.edu || rea@acm.org
+    * IRC: docrea
 
 * Meghan Allen, University of British Columbia
-	* On Email: meghana AT cs.ubc.ca
-	
+    * On Email: meghana AT cs.ubc.ca
+
 * Chris Murphy, University of Pennsylvania
-	* On GitHub: ChrisMurphyOnline
-	* on EMail: cdmurphy@seas.upenn.edu
-	* On IRC: ChrisMurphy
+    * On GitHub: ChrisMurphyOnline
+    * on EMail: cdmurphy@seas.upenn.edu
+    * On IRC: ChrisMurphy
 
 * Steven P. Crain, SUNY Plattsburgh
-	* On GitHub: scrain777
+    * On GitHub: scrain777
 
 * Ruby ElKharboutly, Quinnipiac University
-	* On GitHub: robik123
-	* on EMail: ruby.elkharboutly@quinnipiac.edu
-	* On IRC: rubyK
+    * On GitHub: robik123
+    * on EMail: ruby.elkharboutly@quinnipiac.edu
+    * On IRC: rubyK
 
 * Swapneel Sheth, University of Pennsylvania
-	* On GitHub: swapneelsheth
-	* on EMail: swapneel@cis.upenn.edu
-	* On IRC: swapneel
-	
+    * On GitHub: swapneelsheth
+    * on EMail: swapneel@cis.upenn.edu
+    * On IRC: swapneel
+
 * Razvan Alex. Mezei, Lenoir-Rhyne University
   * On GitHub: rmezei
   * On EMail: razvan.mezei@lr.edu
   * On IRC: alex_rmezei
-
 
 * Samuel A. Rebelsky, Grinnell College
   * On GitHub: rebelsky
@@ -172,175 +168,175 @@ _Are we doing this in reverse alphabetical order?_ _Apparently not_
     * IRC:    edMirielli
 
 * Lynn Lambert
-	* GitHub: lynnlambert
-	* Email: llambert@cnu.edu
+    * GitHub: lynnlambert
+    * Email: llambert@cnu.edu
 
 * Jiang (Leo) Li
-	* GitHub: lijleo
-	* Email: lij [at] scs [dot) howard.edu
+    * GitHub: lijleo
+    * Email: lij [at] scs [dot) howard.edu
 
 * Sean Workman, Christopher Newport University
     * GitHub: SeanWorkman
     * Email:  sean.workman.14@cnu.edu
      
 * Kate Lockwood, University of St. Thomas
-	* GitHub: KateLockwood
-	* Email: aklockwood@stthomas.edu
-	* IRC: aklockwood
+    * GitHub: KateLockwood
+    * Email: aklockwood@stthomas.edu
+    * IRC: aklockwood
 
 * Linda Webster, Westminster College
-	* GitHub:  LindaDWebster
-	* Email:  linda.webster@westminster-mo.edu
+    * GitHub:  LindaDWebster
+    * Email:  linda.webster@westminster-mo.edu
 
 * Dee Weikle, Eastern Mennonite University
-	* GitHub: DWeikle or dweikle
-	* Email: dee.weikle@emu.edu
-	* IRC: dweikle
+    * GitHub: DWeikle or dweikle
+    * Email: dee.weikle@emu.edu
+    * IRC: dweikle
 
 * Emily Lovell, University of California at Santa Cruz
-	* GitHub: emmet0r
-	* Email: emme@soe.ucsc.edu
-	* IRC: emme
+    * GitHub: emmet0r
+    * Email: emme@soe.ucsc.edu
+    * IRC: emme
 
 * Joe Welch, Hartnell College
-	* GitHub: joetgish
-	* Email: jwelch@hartnell.edu
-	* IRC: wjwelch
-	
+    * GitHub: joetgish
+    * Email: jwelch@hartnell.edu
+    * IRC: wjwelch
+
 * Jean French, Coastal Carolina University
-	* GitHub: DrFrench
-	* Email: jennis@coastal.edu
-	* IRC: jfrench
+    * GitHub: DrFrench
+    * Email: jennis@coastal.edu
+    * IRC: jfrench
 
 * Stefan Christov, Quinnipiac University
-	* GitHub: christov
-	* Email: schristov at quinnipiac dot edu
-	* IRC: stefan_c
-	
+    * GitHub: christov
+    * Email: schristov at quinnipiac dot edu
+    * IRC: stefan_c
+
 * Andrea Tartaro, Furman University
-	* GitHub: andreatartaro
-	* Email: andrea.tartaro@furman.edu
+    * GitHub: andreatartaro
+    * Email: andrea.tartaro@furman.edu
 
 * Tim Wahls, Dickinson College
-	* GitHub: wahlst
-	* Email: wahlst@dickinson.edu
-	* IRC: wahlst
-	
+    * GitHub: wahlst
+    * Email: wahlst@dickinson.edu
+    * IRC: wahlst
+
 * John MacCormick, Dickinson College
-	* GitHub: jmac@dickinson.edu
-	* Email: jmac@dickinson.edu
-	* IRC: jmac
+    * GitHub: jmac@dickinson.edu
+    * Email: jmac@dickinson.edu
+    * IRC: jmac
 
 * Grant Braught, Dickinson College
-	* GitHub: bruaughtg
-	* Email: braught@dickinson.edu
-	* IRC: braught
+    * GitHub: bruaughtg
+    * Email: braught@dickinson.edu
+    * IRC: braught
 
 
 * Michael Skalak, Dickinson College
-	* GitHub: skalakm
-	* Email: skalakm@dickinson.edu
-	* IRC: mss
+    * GitHub: skalakm
+    * Email: skalakm@dickinson.edu
+    * IRC: mss
 
 * Simon Sultana, Fresno Pacific University
-	* GitHub: sgsultana
-	* Email: sgsultana@gmail.com
-	* IRC: Sgsultana
+    * GitHub: sgsultana
+    * Email: sgsultana@gmail.com
+    * IRC: Sgsultana
 
 * John Barr, Ithaca College
-	* GitHub: barrj
-	* Email: barr@ithaca.edu
-	* IRC: ithabarr
+    * GitHub: barrj
+    * Email: barr@ithaca.edu
+    * IRC: ithabarr
 
 * Ron McCleary, Avila University
-	* GitHub: rmccleary
-	* Email: ron.mccleary@avila.edu
-	* IRC: rmccleary
+    * GitHub: rmccleary
+    * Email: ron.mccleary@avila.edu
+    * IRC: rmccleary
 
 * John Rager, Amherst College
-	* Email: jer@cs.amherst.edu
-	* IRC:	JohnRager
-	
+    * Email: jer@cs.amherst.edu
+    * IRC:JohnRager
+
 * Bo Brinkman, Miami University
-	* Email: brinkmwj@miamioh.edu
-	* GitHub: drbobrinkman
-	* Twitter: drbobrinkman
-	
+    * Email: brinkmwj@miamioh.edu
+    * GitHub: drbobrinkman
+    * Twitter: drbobrinkman
+
 * Krish Narayanan, Eastern Michigan University
-	* Email: knarayan@emich.edu
-	* GitHub: knarayan-emich
-	* IRC: krish
+    * Email: knarayan@emich.edu
+    * GitHub: knarayan-emich
+    * IRC: krish
 
 * Matt Jadud, Berea College
-	* Email: jadudm@berea.edu
-	* GitHub: jadudm
-	* IRC: jadudm
+    * Email: jadudm@berea.edu
+    * GitHub: jadudm
+    * IRC: jadudm
 
 * Jan Pearce, Berea College
-	* Email: pearcej@berea.edu
-	* GitHub: pearcej
-	* IRC: pearcej
+    * Email: pearcej@berea.edu
+    * GitHub: pearcej
+    * IRC: pearcej
 
 * Mario Nakazawa, Berea College
-	* Email: nakazawam@berea.edu
-	* GitHub: mario-nakazawa
-	* IRC: nakazawa
+    * Email: nakazawam@berea.edu
+    * GitHub: mario-nakazawa
+    * IRC: nakazawa
 
 * Scott Heggen, Berea College
-	* Email: heggens@berea.edu
-	* GitHub: sheggen
-	* IRC: sheggen
+    * Email: heggens@berea.edu
+    * GitHub: sheggen
+    * IRC: sheggen
 
 * Birgit Penzenstadler, California State University Long Beach
-	* Email: birgit.penzenstadler@csulb.edu
-	* Github: kamikitty
-	* Twitter: twinkleflip
+    * Email: birgit.penzenstadler@csulb.edu
+    * Github: kamikitty
+    * Twitter: twinkleflip
 
 * Jody Paul, Metropolitan State University of Denver
-	* Email: jody@cs.msudenver.edu
-	* Github: jody
+    * Email: jody@cs.msudenver.edu
+    * Github: jody
 
 * Mark Gondree, Sonoma State University
-	* Twitter: mgondree
-	* GitHub: gondree
+    * Twitter: mgondree
+    * GitHub: gondree
 
 * Tacksoo Im, Georgia Gwinnett College
-	* Email: tim@ggc.edu
-	* GitHub: tacksoo
-	* IRC: tacksoo
-	
+    * Email: tim@ggc.edu
+    * GitHub: tacksoo
+    * IRC: tacksoo
+
 * Patrick Masson, U Albany
-	* Email:  pmasson@albany.edu
-	* GitHub: profmasson
-	* IRC: OSIMasson
-	
+    * Email:  pmasson@albany.edu
+    * GitHub: profmasson
+    * IRC: OSIMasson
+
 * Janet Burge, Colorado College
-	* Email: jburge@coloradocollege.edu
-	* GitHub: burgeje
-	* IRC: jburge
+    * Email: jburge@coloradocollege.edu
+    * GitHub: burgeje
+    * IRC: jburge
 
 * Marcos Sanchez-Elez, Universidad Complutense de Madrid
-	* Email: marcos@ucm.es
-	* GitHub: mselezm
-	* IRC: mselezm
+    * Email: marcos@ucm.es
+    * GitHub: mselezm
+    * IRC: mselezm
 
 * Mark Zarb, Robert Gordon University
-	* Email: m.zarb@rgu.ac.uk
-	* GitHub: mzarb
-	* IRC: MZarb
+    * Email: m.zarb@rgu.ac.uk
+    * GitHub: mzarb
+    * IRC: MZarb
 
 * Garrett Poppe
-	* Email: gpoppe@csudh.edu
-	* GitHub: gpoppe
+    * Email: gpoppe@csudh.edu
+    * GitHub: gpoppe
 
 * Becka Morgan, Western Oregon University
-	* Email: morganb@wou.edu
-	* IRC: becka
-	* GitHub: beckamorgan
+    * Email: morganb@wou.edu
+    * IRC: becka
+    * GitHub: beckamorgan
 
 * Nanette Veilleux, Simmons College
-	* GitHub: veilleux
-	* Email: veilleux@simmons.edu	
+    * GitHub: veilleux
+    * Email: veilleux@simmons.edu
 
 * Adam Devigili, Western New England University
     * Github: AdamDevigili
