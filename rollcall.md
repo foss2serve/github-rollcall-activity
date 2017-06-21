@@ -357,3 +357,8 @@ _Are we doing this in reverse alphabetical order?_ _Apparently not_
     * On gmail: trevorsbreton@gmail.com 
     * IRC:    Trevor_B
 
+* Elise Duquette, Western New England University
+    * On GitHub: ed317023
+    * Email: ed317023@wne.edu
+    * IRC: Elise_Duquette
+
