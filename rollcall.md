@@ -346,3 +346,8 @@ _Are we doing this in reverse alphabetical order?_ _Apparently not_
     * Github: AdamDevigili
     * Email: adam.devigili@gmail.com
     * IRC : AdamDevigili
+ 
+* Ian McLean, Western New England University
+    * On GitHub: mrclean1214
+    * Email: mrclean1214@gmail.com
+    * IRC: Ian McLean
