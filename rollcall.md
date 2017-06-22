@@ -357,4 +357,8 @@ Name, Organization, and (optionally) Contact Info
     * On GitHub: ed317023
     * Email: ed317023@wne.edu
     * IRC: Elise_Duquette
+    
+* Priti Narwal, Manav Rachna International University
+    * GitHub: Pnarwal
+    * Email: preeti.fet@mriu.edu.in
 
