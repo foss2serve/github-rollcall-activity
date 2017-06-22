@@ -325,3 +325,8 @@ _Are we doing this in reverse alphabetical order?_ _Apparently not_
 	* Email: m.zarb@rgu.ac.uk
 	* GitHub: mzarb
 	* IRC: MZarb
+
+* Shobha Tyagi, Manav Rachna International University
+	* Email: tyagishobha@gmail.com
+	* GitHub: curiousdtu
+	* IRC: shobha
