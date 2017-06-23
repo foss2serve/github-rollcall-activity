@@ -362,3 +362,7 @@ Name, Organization, and (optionally) Contact Info
     * GitHub: Pnarwal
     * Email: preeti.fet@mriu.edu.in
 
+* Shobha Tyagi, Manav Rachna International University
+    * GitHub: curiousdtu
+    * Email: shobhatyagi.fet@mriu.edu.in
+    * IRC: shobha
