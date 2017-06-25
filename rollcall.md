@@ -366,3 +366,8 @@ Name, Organization, and (optionally) Contact Info
     * GitHub: curiousdtu
     * Email: shobhatyagi.fet@mriu.edu.in
     * IRC: shobha
+
+* Gustavo Pinto, Federal University of Para
+    * GitHub: gustavopinto
+    * Email: gpinto@ufpa.br
+    * IRC: gustavopinto
