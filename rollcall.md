@@ -371,3 +371,8 @@ Name, Organization, and (optionally) Contact Info
     * GitHub: gustavopinto
     * Email: gpinto@ufpa.br
     * IRC: gustavopinto
+
+* Gianluca Torta, Università di Torino
+    * GitHub: giatorta
+    * Email: gianluca.torta@unito.it
+    
