@@ -376,3 +376,7 @@ Name, Organization, and (optionally) Contact Info
     * GitHub: giatorta
     * Email: gianluca.torta@unito.it
     
+* Michael Scott, Falmouth University
+    * GitHub: adrir
+    * Email: michael.scott@falmouth.ac.uk 
+    
