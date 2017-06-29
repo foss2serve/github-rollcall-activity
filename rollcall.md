@@ -380,3 +380,7 @@ Name, Organization, and (optionally) Contact Info
     * GitHub: adrir
     * Email: michael.scott@falmouth.ac.uk 
     
+* Sara Roman, Universidad complutense de Madrid
+    * GitHub: SaraRoman
+    * Email: sroman@ucm.es
+    
