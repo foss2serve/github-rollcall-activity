@@ -387,3 +387,8 @@ Name, Organization, and (optionally) Contact Info
 * Deepti Reddy, University of Mumbai
     * GitHub: deeptisiesgst
     * Email: deepti.reddy@siesgst.ac.in
+
+
+* Sabine Wojcieszak, University of Applied Science Kiel
+   * Email: sabine@getnext-it.com
+   
