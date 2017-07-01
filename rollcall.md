@@ -388,7 +388,9 @@ Name, Organization, and (optionally) Contact Info
     * GitHub: deeptisiesgst
     * Email: deepti.reddy@siesgst.ac.in
 
-
 * Sabine Wojcieszak, University of Applied Science Kiel
    * Email: sabine@getnext-it.com
    
+* Vangel Ajanovski, Faculty of Computer Science & Engineering, Ss. Cyril and Me$
+   * Web: https://ajanovski.info
+
