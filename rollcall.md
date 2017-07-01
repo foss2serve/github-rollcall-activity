@@ -391,6 +391,6 @@ Name, Organization, and (optionally) Contact Info
 * Sabine Wojcieszak, University of Applied Science Kiel
    * Email: sabine@getnext-it.com
    
-* Vangel Ajanovski, Faculty of Computer Science & Engineering, Ss. Cyril and Me$
+* Vangel Ajanovski, Faculty of Computer Science & Engineering, Ss. Cyril and Methodius, Skopje, Macedonia
    * Web: https://ajanovski.info
 
