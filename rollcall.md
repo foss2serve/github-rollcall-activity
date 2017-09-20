@@ -6,9 +6,11 @@ Rollcall
 Name, Organization, and (optionally) Contact Info
 -------------------------------------------------
 * Anthony Coralli, Western New England University
-
 * Kendrick Koslosky, Western New England University
    * Email: kk344610@wne.edu
+* Greg Boyages, Western New England University
+   * Email: gb342218@wne.edu
+   * GitHub: gboyages
 
 * Samah Al Sabbagh, Reach Out to Asia/Education Above All
     * Email: salsabbagh@eaa.org.qa
