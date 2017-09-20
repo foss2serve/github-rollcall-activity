@@ -7,6 +7,8 @@ Name, Organization, and (optionally) Contact Info
 -------------------------------------------------
 * Anthony Coralli, Western New England University
 
+* Elisandy De Leon, Western New England University
+
 * Samah Al Sabbagh, Reach Out to Asia/Education Above All
     * Email: salsabbagh@eaa.org.qa
     * IRC: salsabbagh
