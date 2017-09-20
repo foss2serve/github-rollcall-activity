@@ -7,6 +7,9 @@ Name, Organization, and (optionally) Contact Info
 -------------------------------------------------
 * Anthony Coralli, Western New England University
 
+* Kendrick Koslosky, Western New England University
+   * Email: kk344610@wne.edu
+
 * Samah Al Sabbagh, Reach Out to Asia/Education Above All
     * Email: salsabbagh@eaa.org.qa
     * IRC: salsabbagh
