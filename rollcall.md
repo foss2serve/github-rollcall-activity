@@ -6,6 +6,10 @@ Rollcall
 Name, Organization, and (optionally) Contact Info
 -------------------------------------------------
 
+* Tony Tran, Western New England University
+   * Email: tony.tran@wne.edu
+   * IRC: ynot269
+   * GitHub: tonytran
 * Cristofer Orellana, Western New England University
    * Email: cristofer.orellana@wne.edu
    * GitHub: Cris Orellana
