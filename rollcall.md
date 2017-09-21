@@ -5,6 +5,10 @@ Rollcall
 
 Name, Organization, and (optionally) Contact Info
 -------------------------------------------------
+* Neal Benson, Western New England University
+   * Email: nb343088@wne.edu
+   * GitHub: nbenson81
+
 * Kendrick Koslosky, Western New England University
    * Email: kk344610@wne.edu
 
@@ -29,7 +33,7 @@ Name, Organization, and (optionally) Contact Info
 * Mark Dietrich, Western New England University
    * Email: md341760@wne.edu
    * GitHub: MDietrich84
-   
+
 * Cristofer Orellana, Western New England University
    * Email: cristofer.orellana@wne.edu
    * GitHub: Cris Orellana
