@@ -5,6 +5,9 @@ Rollcall
 
 Name, Organization, and (optionally) Contact Info
 -------------------------------------------------
+* Eric Piskorowski, Western New England University
+    * GitHub: episkorowski 
+
 * Neal Benson, Western New England University
    * Email: nb343088@wne.edu
    * GitHub: nbenson81
