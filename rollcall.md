@@ -5,6 +5,11 @@ Rollcall
 
 Name, Organization, and (optionally) Contact Info
 -------------------------------------------------
+
+* Cristofer Orellana, Western New England University
+   * Email: cristofer.orellana@wne.edu
+   * GitHub: Cris Orellana
+   
 * Anthony Coralli, Western New England University
 
 * Ali Johnstone
