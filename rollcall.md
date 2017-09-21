@@ -5,6 +5,9 @@ Rollcall
 
 Name, Organization, and (optionally) Contact Info
 -------------------------------------------------
+* Eric Piskorowski, Western New England University
+    * GitHub: episkorowski 
+
 * Anthony Coralli, Western New England University
 
 * Greg Boyages, Western New England University
