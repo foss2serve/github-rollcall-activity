@@ -408,3 +408,6 @@ Name, Organization, and (optionally) Contact Info
 * Vangel Ajanovski, Faculty of Computer Science & Engineering, Ss. Cyril and Methodius, Skopje, Macedonia
    * Web: https://ajanovski.info
 
+* Andrew Desrochers, Western New England University
+   * Email: ad339122@wne.edu
+   * GitHub: Strauss490
