@@ -5,9 +5,37 @@ Rollcall
 
 Name, Organization, and (optionally) Contact Info
 -------------------------------------------------
-* Anthony Coralli, Western New England University
 * Kendrick Koslosky, Western New England University
    * Email: kk344610@wne.edu
+
+* Andrew Pearce, Western New England University
+   * Email: ap339777@wne.edu
+   * GitHub: andrewpearce117
+
+* Ryan Bosteder, Western New England University
+   * GitHub: RyanBosteder
+   * Email: rb345152@wne.edu
+   * IRC: Shot
+
+* Tony Tran, Western New England University
+   * Email: tony.tran@wne.edu
+   * IRC: ynot269
+   * GitHub: tonytran
+
+* Mark Dietrich, Western New England University
+   * Email: md341760@wne.edu
+   * GitHub: MDietrich84
+   
+* Cristofer Orellana, Western New England University
+   * Email: cristofer.orellana@wne.edu
+   * GitHub: Cris Orellana
+
+* Anthony Coralli, Western New England University
+
+* Ali Johnstone
+    * Email: aj341199@wne.edu
+    * GitHub: apjohnstone
+    
 * Greg Boyages, Western New England University
    * Email: gb342218@wne.edu
    * GitHub: gboyages
@@ -399,4 +427,8 @@ Name, Organization, and (optionally) Contact Info
    
 * Vangel Ajanovski, Faculty of Computer Science & Engineering, Ss. Cyril and Methodius, Skopje, Macedonia
    * Web: https://ajanovski.info
+
+* Andrew Desrochers, Western New England University
+   * Email: ad339122@wne.edu
+   * GitHub: Strauss490
 
