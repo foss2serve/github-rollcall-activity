@@ -5,6 +5,10 @@ Rollcall
 
 Name, Organization, and (optionally) Contact Info
 -------------------------------------------------
+* Andrew Pearce, Western New England University
+   * Email: ap339777@wne.edu
+   * GitHub: andrewpearce117
+
 * Anthony Coralli, Western New England University
 
 * Greg Boyages, Western New England University
