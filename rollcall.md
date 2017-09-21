@@ -11,6 +11,10 @@ Name, Organization, and (optionally) Contact Info
 * Andrew Pearce, Western New England University
    * Email: ap339777@wne.edu
    * GitHub: andrewpearce117
+   
+ * Jesse Walters, Western New England University
+   * Email: jesse.walters@wne.edu
+   * GitHub: WaltersJesse
 
 * Ryan Bosteder, Western New England University
    * GitHub: RyanBosteder
