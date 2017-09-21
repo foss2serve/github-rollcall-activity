@@ -8,7 +8,7 @@ Name, Organization, and (optionally) Contact Info
 
 * Mark Dietrich, Western New England University
   * Email: mddietrich23@gmail.com
-  *GitHub MDietrich84
+  * GitHub MDietrich84
   
 * Cristofer Orellana, Western New England University
    * Email: cristofer.orellana@wne.edu
