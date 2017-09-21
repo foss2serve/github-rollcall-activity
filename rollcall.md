@@ -5,6 +5,10 @@ Rollcall
 
 Name, Organization, and (optionally) Contact Info
 -------------------------------------------------
+* Tony Tran, Western New England University
+   * Email: tony.tran@wne.edu
+   * IRC: ynot269
+   * GitHub: tonytran
 
 * Mark Dietrich, Western New England University
    * Email: md341760@wne.edu
