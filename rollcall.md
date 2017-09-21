@@ -9,6 +9,15 @@ Name, Organization, and (optionally) Contact Info
    * Email: nb343088@wne.edu
    * GitHub: nbenson81
 
+* Tony Tran, Western New England University
+   * Email: tony.tran@wne.edu
+   * IRC: ynot269
+   * GitHub: tonytran
+
+* Mark Dietrich, Western New England University
+   * Email: md341760@wne.edu
+   * GitHub: MDietrich84
+
 * Cristofer Orellana, Western New England University
    * Email: cristofer.orellana@wne.edu
    * GitHub: Cris Orellana
