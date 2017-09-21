@@ -5,6 +5,10 @@ Rollcall
 
 Name, Organization, and (optionally) Contact Info
 -------------------------------------------------
+* Andrew Pearce, Western New England University
+   * Email: ap339777@wne.edu
+   * GitHub: andrewpearce117
+
 * Ryan Bosteder, Western New England University
    * GitHub: RyanBosteder
    * Email: rb345152@wne.edu
@@ -22,7 +26,7 @@ Name, Organization, and (optionally) Contact Info
 * Cristofer Orellana, Western New England University
    * Email: cristofer.orellana@wne.edu
    * GitHub: Cris Orellana
-   
+
 * Anthony Coralli, Western New England University
 
 * Ali Johnstone
