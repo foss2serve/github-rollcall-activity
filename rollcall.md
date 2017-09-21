@@ -5,6 +5,9 @@ Rollcall
 
 Name, Organization, and (optionally) Contact Info
 -------------------------------------------------
+* Neal Benson, Western New England University
+   * Email: nb343088@wne.edu
+   * GitHub: nbenson81
 
 * Cristofer Orellana, Western New England University
    * Email: cristofer.orellana@wne.edu
