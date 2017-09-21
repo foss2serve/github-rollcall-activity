@@ -5,6 +5,9 @@ Rollcall
 
 Name, Organization, and (optionally) Contact Info
 -------------------------------------------------
+* Kendrick Koslosky, Western New England University
+   * Email: kk344610@wne.edu
+
 * Andrew Pearce, Western New England University
    * Email: ap339777@wne.edu
    * GitHub: andrewpearce117
