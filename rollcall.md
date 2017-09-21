@@ -6,6 +6,10 @@ Rollcall
 Name, Organization, and (optionally) Contact Info
 -------------------------------------------------
 
+* Mark Dietrich, Western New England University
+   * Email: md341760@wne.edu
+   * GitHub: MDietrich84
+   
 * Cristofer Orellana, Western New England University
    * Email: cristofer.orellana@wne.edu
    * GitHub: Cris Orellana
