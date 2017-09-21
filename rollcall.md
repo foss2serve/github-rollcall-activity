@@ -399,3 +399,7 @@ Name, Organization, and (optionally) Contact Info
 * Vangel Ajanovski, Faculty of Computer Science & Engineering, Ss. Cyril and Methodius, Skopje, Macedonia
    * Web: https://ajanovski.info
 
+* Ryan Bosteder, Western New England University
+   * GitHub: RyanBosteder
+   * Email: rb345152@wne.edu
+   * IRC: Shot
