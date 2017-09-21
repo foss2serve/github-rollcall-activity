@@ -8,8 +8,16 @@ Name, Organization, and (optionally) Contact Info
 * Eric Piskorowski, Western New England University
     * GitHub: episkorowski 
 
+* Cristofer Orellana, Western New England University
+   * Email: cristofer.orellana@wne.edu
+   * GitHub: Cris Orellana
+
 * Anthony Coralli, Western New England University
 
+* Ali Johnstone
+    * Email: aj341199@wne.edu
+    * GitHub: apjohnstone
+    
 * Greg Boyages, Western New England University
    * Email: gb342218@wne.edu
    * GitHub: gboyages
