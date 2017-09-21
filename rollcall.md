@@ -5,6 +5,11 @@ Rollcall
 
 Name, Organization, and (optionally) Contact Info
 -------------------------------------------------
+* Ryan Bosteder, Western New England University
+   * GitHub: RyanBosteder
+   * Email: rb345152@wne.edu
+   * IRC: Shot
+
 * Tony Tran, Western New England University
    * Email: tony.tran@wne.edu
    * IRC: ynot269
@@ -419,3 +424,4 @@ Name, Organization, and (optionally) Contact Info
 * Andrew Desrochers, Western New England University
    * Email: ad339122@wne.edu
    * GitHub: Strauss490
+
