@@ -7,7 +7,12 @@ Name, Organization, and (optionally) Contact Info
 -------------------------------------------------
 * Eric Piskorowski, Western New England University
     * GitHub: episkorowski 
-
+    
+* Jimmy O'Donnell, Western New England University
+   *  Github: ojimmy89
+   *  Email:   jo345758@wne.edu
+   *  IRC:  ojimmy89
+   
 * Neal Benson, Western New England University
    * Email: nb343088@wne.edu
    * GitHub: nbenson81
