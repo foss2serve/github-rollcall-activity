@@ -451,4 +451,7 @@ Name, Organization, and (optionally) Contact Info
 * Andrew Desrochers, Western New England University
    * Email: ad339122@wne.edu
    * GitHub: Strauss490
+   
+* Greg Hislop, Drexel University
+   * GitHub: hislop
 
