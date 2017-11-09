@@ -460,3 +460,7 @@ Name, Organization, and (optionally) Contact Info
 * Barry Burd, Drew Universtiy
     * GitHub: barryburd
     * Email: bburd@drew.edu
+
+* Hank Carter, Villanova Universtiy
+    * GitHub: carterh
+    * Email: henry.carter@villanova.edu
