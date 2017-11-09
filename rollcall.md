@@ -456,3 +456,7 @@ Name, Organization, and (optionally) Contact Info
    * GitHub: hislop
 * Joshua C Nwokeji, Gannon University 
   * Github: Nwokeji001
+
+* Barry Burd, Drew Universtiy
+    * GitHub: barryburd
+    * Email: bburd@drew.edu
