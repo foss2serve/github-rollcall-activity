@@ -464,3 +464,9 @@ Name, Organization, and (optionally) Contact Info
 * Hank Carter, Villanova Universtiy
     * GitHub: carterh
     * Email: henry.carter@villanova.edu
+
+* Mark Hills, East Carolina University
+    * GitHub: mahills
+    * Email: hillsma@ecu.edu
+    * Web: http://www.cs.ecu.edu/hillsma
+
