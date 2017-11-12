@@ -469,4 +469,7 @@ Name, Organization, and (optionally) Contact Info
     * GitHub: mahills
     * Email: hillsma@ecu.edu
     * Web: http://www.cs.ecu.edu/hillsma
+* Suhaib Obeidat, Bloomfield College
+    * GitHub: ssobeidat
+    * Email: suhaib_obeidat@bloomfield.edu
 
