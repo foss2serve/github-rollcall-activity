@@ -470,3 +470,6 @@ Name, Organization, and (optionally) Contact Info
     * Email: hillsma@ecu.edu
     * Web: http://www.cs.ecu.edu/hillsma
 
+* Hong Jiang, Benedict College
+    * GitHub: jianghsu
+    * Email: hong.jiang@benedict.edu
