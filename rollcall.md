@@ -473,3 +473,6 @@ Name, Organization, and (optionally) Contact Info
     * GitHub: ssobeidat
     * Email: suhaib_obeidat@bloomfield.edu
 
+* Hong Jiang, Benedict College
+    * GitHub: jianghsu
+    * Email: hong.jiang@benedict.edu
