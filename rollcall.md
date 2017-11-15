@@ -476,3 +476,7 @@ Name, Organization, and (optionally) Contact Info
 * Hong Jiang, Benedict College
     * GitHub: jianghsu
     * Email: hong.jiang@benedict.edu
+
+* Wesley Turner, Rensselaer Polytechnic Institute
+    * GitHub: wdturner
+    * Email: wdturner@gmail.com
