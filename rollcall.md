@@ -480,3 +480,7 @@ Name, Organization, and (optionally) Contact Info
 * Wesley Turner, Rensselaer Polytechnic Institute
     * GitHub: wdturner
     * Email: wdturner@gmail.com
+
+* Quashawn Hernandez, Dural College
+   *GitHub: HernandezQ17
+   *Email: quashawnhernandez@gmail.com
