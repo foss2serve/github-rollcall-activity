@@ -484,3 +484,7 @@ Name, Organization, and (optionally) Contact Info
 * Quashawn Hernandez, Dural College
    * GitHub: HernandezQ17
    * Email: quashawnhernandez@gmail.com
+
+* Darci Burdge, Nassau Community College
+   * GitHub: burdged
+   * Email: darci.burdge@ncc.edu
