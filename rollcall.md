@@ -484,3 +484,7 @@ Name, Organization, and (optionally) Contact Info
 * Quashawn Hernandez, Dural College
    * GitHub: HernandezQ17
    * Email: quashawnhernandez@gmail.com
+
+* Hossain Shahriar, Kennesaw State University
+   * GitHub: hshahria2012
+   * Email: hshahria2012@gmail.com
