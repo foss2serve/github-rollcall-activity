@@ -485,6 +485,10 @@ Name, Organization, and (optionally) Contact Info
    * GitHub: HernandezQ17
    * Email: quashawnhernandez@gmail.com
 
+* Wei Jin, Georgia Gwinnett College
+   * GitHub: wjinggc
+   * Email: wjin@ggc.edu
+
 * Darci Burdge, Nassau Community College
    * GitHub: burdged
    * Email: darci.burdge@ncc.edu
@@ -492,4 +496,3 @@ Name, Organization, and (optionally) Contact Info
 * Hossain Shahriar, Kennesaw State University
    * GitHub: hshahria2012
    * Email: hshahria2012@gmail.com
-
