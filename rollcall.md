@@ -488,3 +488,11 @@ Name, Organization, and (optionally) Contact Info
 * Wei Jin, Georgia Gwinnett College
    * GitHub: wjinggc
    * Email: wjin@ggc.edu
+
+* Darci Burdge, Nassau Community College
+   * GitHub: burdged
+   * Email: darci.burdge@ncc.edu
+
+* Hossain Shahriar, Kennesaw State University
+   * GitHub: hshahria2012
+   * Email: hshahria2012@gmail.com
