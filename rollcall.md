@@ -496,3 +496,7 @@ Name, Organization, and (optionally) Contact Info
 * Hossain Shahriar, Kennesaw State University
    * GitHub: hshahria2012
    * Email: hshahria2012@gmail.com
+
+* Lin Deng, Towson University
+   * GitHub: dmark1021
+   * Email: ldeng@towson.edu
