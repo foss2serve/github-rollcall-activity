@@ -484,7 +484,7 @@ Name, Organization, and (optionally) Contact Info
 * Quashawn Hernandez, Dural College
    * GitHub: HernandezQ17
    * Email: quashawnhernandez@gmail.com
-   
+
 * Wei Jin, Georgia Gwinnett College
    * GitHub: wjinggc
    * Email: wjin@ggc.edu
