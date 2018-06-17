@@ -7,7 +7,11 @@ Name, Organization, and (optionally) Contact Info
 -------------------------------------------------
 * Eric Piskorowski, Western New England University
     * GitHub: episkorowski 
-    
+  
+*Farhan Siddiqui, Dickinson College
+   * GitHub: siddiquf
+   *Email: siddiquf@dickinson.edu
+   
 * Jimmy O'Donnell, Western New England University
    *  Github: ojimmy89
    *  Email:   jo345758@wne.edu
