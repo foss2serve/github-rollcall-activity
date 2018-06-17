@@ -7,10 +7,6 @@ Name, Organization, and (optionally) Contact Info
 -------------------------------------------------
 * Eric Piskorowski, Western New England University
     * GitHub: episkorowski 
-  
-*Farhan Siddiqui, Dickinson College
-   * GitHub: siddiquf
-   *Email: siddiquf@dickinson.edu
    
 * Jimmy O'Donnell, Western New England University
    *  Github: ojimmy89
@@ -504,3 +500,7 @@ Name, Organization, and (optionally) Contact Info
 * Lin Deng, Towson University
    * GitHub: dmark1021
    * Email: ldeng@towson.edu
+
+* Farhan Siddiqui, Dickinson College
+   * GitHub: siddiquf
+   * Email: siddiquf@dickinson.edu
