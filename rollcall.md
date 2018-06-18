@@ -500,3 +500,8 @@ Name, Organization, and (optionally) Contact Info
 * Lin Deng, Towson University
    * GitHub: dmark1021
    * Email: ldeng@towson.edu
+
+* Marco Gerosa, Northern Arizona University
+   * GitHub: marcogerosa
+   * Email: Marco.Gerosa@mau.edu
+   
