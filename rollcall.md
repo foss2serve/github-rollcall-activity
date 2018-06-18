@@ -509,3 +509,6 @@ Name, Organization, and (optionally) Contact Info
    * GitHub: siddiquf
    * Email: siddiquf@dickinson.edu
 
+* D. Michael Franklin, Kennesaw State University
+   * GitHub: mfranklin777
+   * Email: mfranklin@kennesaw.edu
