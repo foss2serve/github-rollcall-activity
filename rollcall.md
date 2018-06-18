@@ -501,6 +501,11 @@ Name, Organization, and (optionally) Contact Info
    * GitHub: dmark1021
    * Email: ldeng@towson.edu
 
+* Marco Gerosa, Northern Arizona University
+   * GitHub: marcogerosa
+   * Email: Marco.Gerosa@mau.edu
+
 * Farhan Siddiqui, Dickinson College
    * GitHub: siddiquf
    * Email: siddiquf@dickinson.edu
+
