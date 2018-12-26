@@ -512,3 +512,7 @@ Name, Organization, and (optionally) Contact Info
 * D. Michael Franklin, Kennesaw State University
    * GitHub: mfranklin777
    * Email: mfranklin@kennesaw.edu
+   
+ * Sarah Zelikovitz, College of Staten Island
+   * GitHub: sarahzel
+   * Email: sarah.zelikovitz@csi.cuny.edu
