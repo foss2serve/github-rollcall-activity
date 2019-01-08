@@ -516,3 +516,8 @@ Name, Organization, and (optionally) Contact Info
  * Sarah Zelikovitz, College of Staten Island
    * GitHub: sarahzel
    * Email: sarah.zelikovitz@csi.cuny.edu
+
+* Steven Fulakeza, Lehman College
+  * GitHub: stemafu
+  * Email:steven.fulakeza@lehman.cuny.edu
+  
