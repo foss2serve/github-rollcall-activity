@@ -521,3 +521,7 @@ Name, Organization, and (optionally) Contact Info
   * GitHub: stemafu
   * Email:steven.fulakeza@lehman.cuny.edu
   
+* Susan Imbermn, College of Staten Island
+  * GitHub: ProfImberman
+  * Email:susan.imberman@csi.cuny.edu
+  
