@@ -5,10 +5,6 @@ Rollcall
 
 Name, Organization, and (optionally) Contact Info
 -------------------------------------------------
-* Daniel Garcia, Doral College
-   * Email: 3garciadaniel@gmail.com
-   * Github: dangar112
-   
 * Eric Piskorowski, Western New England University
     * GitHub: episkorowski 
    
@@ -532,4 +528,10 @@ Name, Organization, and (optionally) Contact Info
 * Patricia Morreale, Kean University
   * GitHub: PMorreale
   * Email: pmorreal@kean.edu
+  
+* Daniel Garcia, Doral College
+  * Github: dangar112
+  * Email: 3garciadaniel@gmail.com
+   
+   
   
