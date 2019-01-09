@@ -521,3 +521,5 @@ Name, Organization, and (optionally) Contact Info
   * GitHub: stemafu
   * Email:steven.fulakeza@lehman.cuny.edu
   
+* Chris Merlo, Nassau Community College
+  * GitHub: cmerlo441
