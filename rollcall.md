@@ -525,3 +525,7 @@ Name, Organization, and (optionally) Contact Info
   * GitHub: ProfImberman
   * Email:susan.imberman@csi.cuny.edu
   
+* Patricia Morreale, Kean University
+  * GitHub: PMorreale
+  * Email: pmorreal@kean.edu
+  
