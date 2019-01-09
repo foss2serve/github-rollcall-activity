@@ -529,3 +529,7 @@ Name, Organization, and (optionally) Contact Info
   * GitHub: PMorreale
   * Email: pmorreal@kean.edu
   
+* Daniel Garcia, Doral College
+  * Github: dangar112
+  * Email: 3garciadaniel@gmail.com
+   
