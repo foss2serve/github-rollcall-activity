@@ -525,3 +525,6 @@ Name, Organization, and (optionally) Contact Info
   * GitHub: ProfImberman
   * Email:susan.imberman@csi.cuny.edu
   
+ * Elin Waring, Lehman College
+   * GitHub: elinw  
+   * Elin:elin.waring@lehman.cuny.edu
