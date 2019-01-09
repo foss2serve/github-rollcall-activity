@@ -533,5 +533,3 @@ Name, Organization, and (optionally) Contact Info
   * Github: dangar112
   * Email: 3garciadaniel@gmail.com
    
-   
-  
