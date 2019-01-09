@@ -528,3 +528,7 @@ Name, Organization, and (optionally) Contact Info
  * Elin Waring, Lehman College
    * GitHub: elinw  
    * Elin:elin.waring@lehman.cuny.edu
+
+* Patricia Morreale, Kean University
+  * GitHub: PMorreale
+  * Email: pmorreal@kean.edu
