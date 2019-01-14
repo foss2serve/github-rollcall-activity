@@ -533,3 +533,6 @@ Name, Organization, and (optionally) Contact Info
   * Github: dangar112
   * Email: 3garciadaniel@gmail.com
    
+* Ray Romero, Doral College
+  * Github: Ray-Romero
+  * Email: rayromero00@gmail.com
