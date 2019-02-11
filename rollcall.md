@@ -526,6 +526,10 @@ Name, Organization, and (optionally) Contact Info
   * GitHub: ProfImberman
   * Email:susan.imberman@csi.cuny.edu
   
+* Robert Domanski, NYC Government
+  * GitHub: RobbieD2R2
+  * Email: Rdomanski@sbs.nyc.gov
+
  * Elin Waring, Lehman College
    * GitHub: elinw  
    * Elin:elin.waring@lehman.cuny.edu
