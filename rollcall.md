@@ -452,8 +452,9 @@ Name, Organization, and (optionally) Contact Info
    * Email: ad339122@wne.edu
    * GitHub: Strauss490
    
-* Greg Hislop, Drexel University
+* Greg Hislop, CCI, Drexel University
    * GitHub: hislop
+   
 * Joshua C Nwokeji, Gannon University 
   * Github: Nwokeji001
 
@@ -528,3 +529,19 @@ Name, Organization, and (optionally) Contact Info
 * Robert Domanski, NYC Government
   * GitHub: RobbieD2R2
   * Email: Rdomanski@sbs.nyc.gov
+
+ * Elin Waring, Lehman College
+   * GitHub: elinw  
+   * Elin:elin.waring@lehman.cuny.edu
+
+* Patricia Morreale, Kean University
+  * GitHub: PMorreale
+  * Email: pmorreal@kean.edu
+  
+* Daniel Garcia, Doral College
+  * Github: dangar112
+  * Email: 3garciadaniel@gmail.com
+   
+* Ray Romero, Doral College
+  * Github: Ray-Romero
+  * Email: rayromero00@gmail.com
