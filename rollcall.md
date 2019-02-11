@@ -452,8 +452,9 @@ Name, Organization, and (optionally) Contact Info
    * Email: ad339122@wne.edu
    * GitHub: Strauss490
    
-* Greg Hislop, Drexel University
+* Greg Hislop, CCI, Drexel University
    * GitHub: hislop
+   
 * Joshua C Nwokeji, Gannon University 
   * Github: Nwokeji001
 
