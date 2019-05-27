@@ -545,3 +545,7 @@ Name, Organization, and (optionally) Contact Info
 * Ray Romero, Doral College
   * Github: Ray-Romero
   * Email: rayromero00@gmail.com
+  
+* Dominic Letarte, Temple University
+  * Github: domincl
+  * Email: dominic.letarte@temple.edu
