@@ -1,12 +1,11 @@
 git-activity
 ============
 
-A pre-POSSE activity to become familiar with Git and GitHub.
+A pre-POSSE activity to become familiar with GitHub.
 
 Instructions
 ============
 
-1. Complete http://try.github.com.
 1. Log into GitHub.
 2. Fork [this repository](https://github.com/foss2serve/git-activity).
 3. In your forked copy, add your information to rollcall.md.
