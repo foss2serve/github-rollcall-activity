@@ -1,5 +1,5 @@
-git-activity
-============
+github-rollcall-activity
+========================
 
 A pre-POSSE activity to become familiar with GitHub.
 
