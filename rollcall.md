@@ -549,3 +549,7 @@ Name, Organization, and (optionally) Contact Info
 * Dominic Letarte, Temple University
   * Github: domincl
   * Email: dominic.letarte@temple.edu
+  
+* Susan Hammond, Faulkner University
+   * Github:  sah0017
+   * Email:  shammond@faulkner.edu
