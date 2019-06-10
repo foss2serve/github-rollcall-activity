@@ -5,6 +5,10 @@ Rollcall
 
 Name, Organization, and (optionally) Contact Info
 -------------------------------------------------
+* Chris Brooks, University of San Francisco
+   * GitHub: chbrooks
+   * Email: chris.cbrooks@gmail.com
+
 * Eric Piskorowski, Western New England University
     * GitHub: episkorowski 
    
