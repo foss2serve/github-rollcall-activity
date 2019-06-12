@@ -557,3 +557,7 @@ Name, Organization, and (optionally) Contact Info
 * Susan Hammond, Faulkner University
    * Github:  sah0017
    * Email:  shammond@faulkner.edu
+   
+* Daniela Inclezan, Miami University
+   * Github: inclezd
+   * Email: inclezd@miamioh.edu
