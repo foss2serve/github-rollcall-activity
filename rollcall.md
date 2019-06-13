@@ -113,10 +113,10 @@ Name, Organization, and (optionally) Contact Info
     * on EMail: swapneel@cis.upenn.edu
     * On IRC: swapneel
 
-* Razvan Alex. Mezei, Lenoir-Rhyne University
+* Razvan Alex. Mezei, Saint Martin's University
   * On GitHub: rmezei
-  * On EMail: razvan.mezei@lr.edu
-  * On IRC: alex_rmezei
+  * On EMail: mezei_razvan@yahoo.com
+  * On IRC: AlexMezei
 
 * Samuel A. Rebelsky, Grinnell College
   * On GitHub: rebelsky
