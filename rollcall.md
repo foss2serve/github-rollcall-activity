@@ -561,3 +561,8 @@ Name, Organization, and (optionally) Contact Info
 * Daniela Inclezan, Miami University
    * Github: inclezd
    * Email: inclezd@miamioh.edu
+
+* Dave Lillethun, Seattle University
+   * Github: DaveLillethun
+   * Email: lillethd at seattleu
+
