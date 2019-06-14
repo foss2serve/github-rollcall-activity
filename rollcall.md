@@ -565,4 +565,8 @@ Name, Organization, and (optionally) Contact Info
 * Dave Lillethun, Seattle University
    * Github: DaveLillethun
    * Email: lillethd at seattleu
+   
+* Steven Bradley, Durham University UK
+   * Github: stevenaeola
+   * Email: s.p.bradley@durham.ac.uk
 
