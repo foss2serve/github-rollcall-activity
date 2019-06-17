@@ -570,3 +570,7 @@ Name, Organization, and (optionally) Contact Info
    * Github: stevenaeola
    * Email: s.p.bradley@durham.ac.uk
 
+* Yuan Long, Georgia State University
+   * Github: yuan-gsu
+   * Email: ylong4@gsu.edu
+
