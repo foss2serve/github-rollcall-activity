@@ -5,6 +5,10 @@ Rollcall
 
 Name, Organization, and (optionally) Contact Info
 -------------------------------------------------
+* Ali Khamesipour, City University of Seattle
+   * GitHub: AliKhameispour
+   * Email: khamesipourali@cityu.edu
+
 * Chris Brooks, University of San Francisco
    * GitHub: chbrooks
    * Email: chris.cbrooks@gmail.com
