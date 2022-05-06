@@ -578,3 +578,7 @@ Name, Organization, and (optionally) Contact Info
    * Github: yuan-gsu
    * Email: ylong4@gsu.edu
 
+* Greg Schaper, Moravian University
+   * Github: gregschaper
+   * Email: schaperg@moravian.edu  
+
