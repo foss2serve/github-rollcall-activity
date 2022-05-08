@@ -582,3 +582,6 @@ Name, Organization, and (optionally) Contact Info
    * Github: gregschaper
    * Email: schaperg@moravian.edu  
 
+* Rafael Arce-Nazario, University of Puerto Rico - Río Piedras
+   * Github: ran-research-lab
+   * Email: rafael.arce@upr.edu
