@@ -585,3 +585,7 @@ Name, Organization, and (optionally) Contact Info
 * Rafael Arce-Nazario, University of Puerto Rico - Río Piedras
    * Github: ran-research-lab
    * Email: rafael.arce@upr.edu
+   
+* Rik Bose, Knox College
+   * Github: infiniterik
+   * Email: rbose@knox.edu
