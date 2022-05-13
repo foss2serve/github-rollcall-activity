@@ -589,3 +589,7 @@ Name, Organization, and (optionally) Contact Info
 * Rik Bose, Knox College
    * Github: infiniterik
    * Email: rbose@knox.edu
+
+* Ryan McFall, Hope College
+   * Github: ryanmcfall
+   * Email: mcfall@hope.edu
