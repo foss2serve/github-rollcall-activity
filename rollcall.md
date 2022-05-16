@@ -593,3 +593,7 @@ Name, Organization, and (optionally) Contact Info
 * Ryan McFall, Hope College
    * Github: ryanmcfall
    * Email: mcfall@hope.edu
+
+* Nathan Sommer, Xavier University
+   * Github: sommern
+   * Email: sommern1@xavier.edu
