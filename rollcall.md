@@ -1,10 +1,14 @@
-Written in [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown).
+﻿Written in [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown).
 
 Rollcall
 ========
 
 Name, Organization, and (optionally) Contact Info
 -------------------------------------------------
+* Ali Al-Faris, Worcester State University
+   * GitHub: aalfaris2009
+   * Email: aalfaris@worcester.edu
+
 * Ali Khamesipour, City University of Seattle
    * GitHub: AliKhameispour
    * Email: khamesipourali@cityu.edu
