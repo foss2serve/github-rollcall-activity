@@ -152,7 +152,8 @@ Name, Organization, and (optionally) Contact Info
     * Email: lang@moravian.edu
 
 * Ben Coleman, Moravian College
-    * Email: coleman@cs.moravian.edu
+    * Email: colemanb@moravian.edu
+    * GitHub: [bjcoleman](https://github.com/bjcoleman)
 
 * Karl R. Wurst, Worcester State University
     * GitHub: [kwurst](https://github.com/kwurst)
