@@ -602,3 +602,7 @@ Name, Organization, and (optionally) Contact Info
 * Nathan Sommer, Xavier University
    * Github: sommern
    * Email: sommern1@xavier.edu
+
+* Chris Merlo, Nassau Community College
+	* Github: cmerlo441
+	* Email: cmerlo@ncc.edu
