@@ -606,3 +606,7 @@ Name, Organization, and (optionally) Contact Info
 * Chris Merlo, Nassau Community College
 	* Github: cmerlo441
 	* Email: cmerlo@ncc.edu
+
+* Ruth Lamprecht, Mount St. Mary's University
+	* Github: rlampy
+	* Email: r.e.lamprecht@msmary.edu 
