@@ -609,4 +609,9 @@ Name, Organization, and (optionally) Contact Info
 
 * Ruth Lamprecht, Mount St. Mary's University
 	* Github: rlampy
-	* Email: r.e.lamprecht@msmary.edu 
+	* Email: r.e.lamprecht@msmary.edu
+	
+* Marie Lluberes, University of Puerto Rico, Rio Piedras	
+	* email: marie.lluberes@upr.edu
+
+
