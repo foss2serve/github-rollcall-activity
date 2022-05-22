@@ -612,6 +612,6 @@ Name, Organization, and (optionally) Contact Info
 	* Email: r.e.lamprecht@msmary.edu
 	
 * Marie Lluberes, University of Puerto Rico, Rio Piedras	
-	* marie.lluberes@upr.edu
+	* email: marie.lluberes@upr.edu
 
 
