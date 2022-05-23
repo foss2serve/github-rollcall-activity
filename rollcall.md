@@ -5,6 +5,10 @@ Rollcall
 
 Name, Organization, and (optionally) Contact Info
 -------------------------------------------------
+* Sam Chung, City University of Seattle
+   * GitHub: samchung0117
+   * Email: chungsam@cityu.edu
+
 * Ali Al-Faris, Worcester State University
    * GitHub: aalfaris2009
    * Email: aalfaris@worcester.edu
