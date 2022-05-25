@@ -614,4 +614,6 @@ Name, Organization, and (optionally) Contact Info
 * Marie Lluberes, University of Puerto Rico, Rio Piedras	
 	* email: marie.lluberes@upr.edu
 
-
+* Konstantin Kuzmin, Rensselaer Polytechnic Institute (RPI)
+   * GitHub: kcony
+   * Email: kuzmik2@rpi.edu
