@@ -617,3 +617,7 @@ Name, Organization, and (optionally) Contact Info
 * Konstantin Kuzmin, Rensselaer Polytechnic Institute (RPI)
    * GitHub: kcony
    * Email: kuzmik2@rpi.edu
+
+* Terrence Lim, Davidson College
+   * GitHub: hlim1
+   * Email: telim at davidson.edu
