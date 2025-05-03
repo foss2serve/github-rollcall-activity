@@ -621,3 +621,7 @@ Name, Organization, and (optionally) Contact Info
 * Terrence Lim, Davidson College
    * GitHub: hlim1
    * Email: telim at davidson.edu
+
+* Maíra Marques Samary, Boston College
+   * GitHub:  mairasamary
+   * Email: marquemo@bc.edu
