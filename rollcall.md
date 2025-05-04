@@ -626,4 +626,6 @@ Name, Organization, and (optionally) Contact Info
    * GitHub:  mairasamary
    * Email: marquemo@bc.edu
  
-   * 
+* Matt Ferelan, Dickinson College
+  * GitHub: ferlandm
+  * Email: ferlandm@dickinson.edu
