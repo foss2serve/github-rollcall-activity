@@ -638,3 +638,7 @@ Name, Organization, and (optionally) Contact Info
   * Github: cyberwaze
   * Email: mahoppa@nsu.edu
  
+* Brian Krupp, Case Western Reserve University
+  * GitHub: briankrupp
+  * Email: brian.krupp2@case.edu 
+ 
