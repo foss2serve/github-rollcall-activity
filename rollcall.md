@@ -645,4 +645,8 @@ Name, Organization, and (optionally) Contact Info
 Victor Norman, Calvin University
    * Github: VictorNorman
    * Email: victor.norman@calvin.edu
+
+Jason Black, Florida A&M University
+   * GitHub: jasontblack1906
+   * Email:  jason.black@famu.edu
  
