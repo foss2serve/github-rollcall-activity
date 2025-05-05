@@ -642,11 +642,10 @@ Name, Organization, and (optionally) Contact Info
   * GitHub: briankrupp
   * Email: brian.krupp2@case.edu 
 
-Victor Norman, Calvin University
+* Victor Norman, Calvin University
    * Github: VictorNorman
    * Email: victor.norman@calvin.edu
 
-Jason Black, Florida A&M University
+* Jason Black, Florida A&M University
    * GitHub: jasontblack1906
    * Email:  jason.black@famu.edu
- 
