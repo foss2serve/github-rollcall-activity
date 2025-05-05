@@ -649,3 +649,7 @@ Name, Organization, and (optionally) Contact Info
 * Jason Black, Florida A&M University
    * GitHub: jasontblack1906
    * Email:  jason.black@famu.edu
+
+* Siyuan Jiang, Eastern Michigan University
+   * GitHub: sjiang1
+   * Email: sjiang1@emich.edu
