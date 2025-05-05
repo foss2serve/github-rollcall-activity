@@ -633,3 +633,8 @@ Name, Organization, and (optionally) Contact Info
 * Pedro Oliveira, Northern Arizona University
   * Github: pedrorodriguesarantes
   * Email: pro32@nau.edu
+
+* Mary Ann Hoppa, Norfolk State University
+  * Github: cyberwaze
+  * Email: mahoppa@nsu.edu
+ 
