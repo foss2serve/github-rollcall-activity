@@ -653,3 +653,7 @@ Name, Organization, and (optionally) Contact Info
 * Siyuan Jiang, Eastern Michigan University
    * GitHub: sjiang1
    * Email: sjiang1@emich.edu
+
+* Saba Kadady, Worcester State University
+	* GitHub: skadady
+	* Email: skadady@worcester.edu
