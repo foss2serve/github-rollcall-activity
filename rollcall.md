@@ -629,3 +629,7 @@ Name, Organization, and (optionally) Contact Info
 * Matt Ferland, Dickinson College
   * GitHub: ferlandm
   * Email: ferlandm@dickinson.edu
+ 
+* Pedro Oliveira, Northern Arizona University
+  * Github: pedrorodriguesarantes
+  * Email: pro32@nau.edu
