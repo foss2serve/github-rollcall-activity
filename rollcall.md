@@ -638,3 +638,8 @@ Name, Organization, and (optionally) Contact Info
   * Github: cyberwaze
   * Email: mahoppa@nsu.edu
  
+* Victor Norman, Calvin University
+   * Github: VictorNorman
+   * Email: victor.norman@calvin.edu
+
+ 
