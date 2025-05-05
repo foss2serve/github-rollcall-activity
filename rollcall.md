@@ -638,8 +638,11 @@ Name, Organization, and (optionally) Contact Info
   * Github: cyberwaze
   * Email: mahoppa@nsu.edu
  
-* Victor Norman, Calvin University
+* Brian Krupp, Case Western Reserve University
+  * GitHub: briankrupp
+  * Email: brian.krupp2@case.edu 
+
+Victor Norman, Calvin University
    * Github: VictorNorman
    * Email: victor.norman@calvin.edu
-
  
