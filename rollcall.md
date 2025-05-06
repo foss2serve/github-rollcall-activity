@@ -657,3 +657,6 @@ Name, Organization, and (optionally) Contact Info
 * Saba Kadady, Worcester State University
 	* GitHub: skadady
 	* Email: skadady@worcester.edu
+Nada Alsallami, Worcester State Univerity
+GitHub: nadaalsallami
+Email: nalsallami@worcester.edu
