@@ -5,6 +5,10 @@ Rollcall
 
 Name, Organization, and (optionally) Contact Info
 -------------------------------------------------
+* Leah Perlmutter, Grinnell College (soon to be Cornell University)
+  * GitHub: lrperlmu
+  * [My Grinnell homepage](https://perlmutter.cs.grinnell.edu/home/)
+
 * Ali Al-Faris, Worcester State University
    * GitHub: aalfaris2009
    * Email: aalfaris@worcester.edu
