@@ -626,6 +626,10 @@ Name, Organization, and (optionally) Contact Info
    * GitHub: hlim1
    * Email: telim at davidson.edu
 
+* Kruti Shah, Quinnipiac University
+   * GitHub: krutishah4595
+   * Email: kruti.shah@quinnipiac.edu
+
 * Maíra Marques Samary, Boston College
    * GitHub:  mairasamary
    * Email: marquemo@bc.edu
