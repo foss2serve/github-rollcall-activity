@@ -1,4 +1,4 @@
-﻿Written in [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown).
+Written in [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown).
 
 Rollcall
 ========
@@ -668,3 +668,8 @@ Name, Organization, and (optionally) Contact Info
 Nada Alsallami, Worcester State Univerity
 GitHub: nadaalsallami
 Email: nalsallami@worcester.edu
+
+* Mitra Bokaei Hosseini, University of Texas at San Antonio
+	* GitHub: pfv610
+	* Email: mitra.bokaeihosseini@utsa.edu
+
