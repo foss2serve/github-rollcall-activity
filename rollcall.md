@@ -674,6 +674,6 @@ Email: nalsallami@worcester.edu
 	* Email: mitra.bokaeihosseini@utsa.edu
 
 * Idongesit Mkpong-Ruffin, Florida A&M University
-	* GitHub:imrFAMU
+	* GitHub: imrFAMU
  	* Email: idongesit.ruffin@famu.edu
 
