@@ -673,3 +673,6 @@ Email: nalsallami@worcester.edu
 	* GitHub: pfv610
 	* Email: mitra.bokaeihosseini@utsa.edu
 
+* Thorna Humphries, Norfolk State University
+  * GitHub: t-humphries
+  * Email: thorhumphries75@gmail.com
