@@ -5,6 +5,10 @@ Rollcall
 
 Name, Organization, and (optionally) Contact Info
 -------------------------------------------------
+* Kumar Thummapudi, University of Texas at San Antonio
+  * GitHub: premkumarbujji
+  * Email: kumar.thummapudi@utsa.edu
+ 
 * Leah Perlmutter, Grinnell College (soon to be Cornell University)
   * GitHub: lrperlmu
   * [Leah Perlmutter's Grinnell homepage](https://perlmutter.cs.grinnell.edu/home/)
