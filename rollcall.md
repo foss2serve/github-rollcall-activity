@@ -5,6 +5,10 @@ Rollcall
 
 Name, Organization, and (optionally) Contact Info
 -------------------------------------------------
+* Zahmeeth Sakkaff, West Virginia University - Tech and WVU main campus
+  * GitHub: zahmeeth
+  * Email: zahmeeth.sakkaff@mail.wvu.edu
+  * 
 * Kumar Thummapudi, University of Texas at San Antonio
   * GitHub: premkumarbujji
   * Email: kumar.thummapudi@utsa.edu
