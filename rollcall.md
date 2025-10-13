@@ -684,3 +684,7 @@ Email: nalsallami@worcester.edu
 * Thorna Humphries, Norfolk State University
   * GitHub: t-humphries
   * Email: thorhumphries75@gmail.com
+
+* Sri Rao, Univ of California at Santa Cruz
+  * GitHub: srira-slug
+  * Email: sri.rao@ucsc.edu
