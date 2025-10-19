@@ -673,9 +673,10 @@ Name, Organization, and (optionally) Contact Info
 * Saba Kadady, Worcester State University
 	* GitHub: skadady
 	* Email: skadady@worcester.edu
-Nada Alsallami, Worcester State Univerity
-GitHub: nadaalsallami
-Email: nalsallami@worcester.edu
+   
+* Nada Alsallami, Worcester State Univerity
+	* GitHub: nadaalsallami
+	* Email: nalsallami@worcester.edu
 
 * Mitra Bokaei Hosseini, University of Texas at San Antonio
 	* GitHub: pfv610
@@ -688,3 +689,7 @@ Email: nalsallami@worcester.edu
 * Sri Rao, Univ of California at Santa Cruz
   * GitHub: srira-slug
   * Email: sri.rao@ucsc.edu
+
+* Kaylea Champion, University of Washington Bothell
+  * GitHub: kayleachampion
+  * Email: kaylea@uw.edu 
