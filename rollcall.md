@@ -5,6 +5,10 @@ Rollcall
 
 Name, Organization, and (optionally) Contact Info
 -------------------------------------------------
+* Christelle Scharff, Pace University
+  * GitHub: scharffc
+  * Email: cscharff@pace.edu
+    
 * Zahmeeth Sakkaff, West Virginia University - Tech and WVU main campus
   * GitHub: zahmeeth
   * Email: zahmeeth.sakkaff@mail.wvu.edu
