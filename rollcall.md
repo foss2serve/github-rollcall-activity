@@ -692,4 +692,8 @@ Name, Organization, and (optionally) Contact Info
 
 * Kaylea Champion, University of Washington Bothell
   * GitHub: kayleachampion
-  * Email: kaylea@uw.edu 
+  * Email: kaylea@uw.edu
+
+* Osvaldo Jiménez, University of the Pacific
+  * GitHub: onzfonz
+  * Email: ojimenez@pacific.edu
