@@ -701,3 +701,7 @@ Name, Organization, and (optionally) Contact Info
 * Osvaldo Jiménez, University of the Pacific
   * GitHub: onzfonz
   * Email: ojimenez@pacific.edu
+ 
+* Joseph Haugh, University of New Mexico
+  * GitHub: JHaugh4
+  * Email: glue500@unm.edu
