@@ -701,7 +701,3 @@ Name, Organization, and (optionally) Contact Info
 * Osvaldo Jiménez, University of the Pacific
   * GitHub: onzfonz
   * Email: ojimenez@pacific.edu
- 
-* Ayush Pandey, University of California Merced
-  * GitHub: ayush9pandey
-  * Email: ayushpandey@ucmerced.edu
