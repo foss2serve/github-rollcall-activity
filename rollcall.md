@@ -705,3 +705,7 @@ Name, Organization, and (optionally) Contact Info
 * Joseph Haugh, University of New Mexico
   * GitHub: JHaugh4
   * Email: glue500@unm.edu
+ 
+* Italo Santos, University of Hawaii at Manoa
+  * GitHub: italo-07
+  * Email: isantos3@hawaii.edu
