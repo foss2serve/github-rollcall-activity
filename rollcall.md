@@ -709,3 +709,7 @@ Name, Organization, and (optionally) Contact Info
 * Italo Santos, University of Hawaii at Manoa
   * GitHub: italo-07
   * Email: isantos3@hawaii.edu
+ 
+* Beatriz E. Palacios A., University of New Mexio
+  * Github: bepalaciosa
+  * Email: bepa@unm.edu
