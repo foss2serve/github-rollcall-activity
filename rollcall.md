@@ -713,3 +713,7 @@ Name, Organization, and (optionally) Contact Info
 * Beatriz E. Palacios A., University of New Mexio
   * Github: bepalaciosa
   * Email: bepa@unm.edu
+ 
+* Amanpreet Kapoor, University of Florida
+  * Github: kapooramanpreet
+  * Email: kapooramanpreet@ufl.edu
