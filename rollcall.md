@@ -717,3 +717,7 @@ Name, Organization, and (optionally) Contact Info
 * Amanpreet Kapoor, University of Florida
   * Github: kapooramanpreet
   * Email: kapooramanpreet@ufl.edu
+ 
+* Ashish Aggarwal, University of Florida
+  * Github: ashishjuit
+  * Email: ashishjuit@ufl.edu
