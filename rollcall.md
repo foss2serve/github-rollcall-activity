@@ -721,3 +721,7 @@ Name, Organization, and (optionally) Contact Info
 * Ashish Aggarwal, University of Florida
   * Github: ashishjuit
   * Email: ashishjuit@ufl.edu
+
+* Peter DePasquale, New York University
+  * Github: depasqua
+  * Email: peter.depasquale@nyu.edu
