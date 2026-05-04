@@ -725,3 +725,7 @@ Name, Organization, and (optionally) Contact Info
 * Peter DePasquale, New York University
   * Github: depasqua
   * Email: peter.depasquale@nyu.edu
+
+* Tony Morelli, College of Charleston
+  * Github: morellicofc
+  * Email: morelliat@cofc.edu
