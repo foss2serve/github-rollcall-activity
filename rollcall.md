@@ -729,3 +729,7 @@ Name, Organization, and (optionally) Contact Info
 * Tony Morelli, College of Charleston
   * Github: morellicofc
   * Email: morelliat@cofc.edu
+ 
+* Nico Ritschel, University of Illinois Urbana-Champaign
+  * Github: nritschel
+  * Email: ritschel@illinois.edu
