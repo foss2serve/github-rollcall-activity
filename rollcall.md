@@ -733,3 +733,9 @@ Name, Organization, and (optionally) Contact Info
 * Nico Ritschel, University of Illinois Urbana-Champaign
   * Github: nritschel
   * Email: ritschel@illinois.edu
+
+* Beryl Hoffman, Elms College
+  * Github: bhoffman0
+  * Email: hoffmanb@elms.edu
+
+
