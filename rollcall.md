@@ -738,4 +738,7 @@ Name, Organization, and (optionally) Contact Info
   * Github: bhoffman0
   * Email: hoffmanb@elms.edu
 
+* Yesenia Velasco, Duke University
+  * Github: yvelasco
+  * Email: yvelasco@cs.duke.edu
 
