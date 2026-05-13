@@ -738,4 +738,7 @@ Name, Organization, and (optionally) Contact Info
   * Github: bhoffman0
   * Email: hoffmanb@elms.edu
 
+* Chandrika Satyavolu, North Carolina State University
+  * Github: csatyavolu
+  * Email: csatyavolu@gmail.com 
 
