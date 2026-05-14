@@ -746,3 +746,6 @@ Name, Organization, and (optionally) Contact Info
   * Github: csatyavolu
   * Email: csatyavolu@gmail.com 
 
+* Chris Brown, Virginia Tech
+	* GitHub: chbrown13
+   	* Email: dcbrown@vt.edu
