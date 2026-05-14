@@ -744,5 +744,8 @@ Name, Organization, and (optionally) Contact Info
   
 * Chandrika Satyavolu, North Carolina State University
   * Github: csatyavolu
-  * Email: csatyavolu@gmail.com 
-
+  * Email: csatyavolu@gmail.com
+ 
+* Sophia Krause-Levy, University of San Diego
+  * Github: skrauselevy
+  * Email: skrauselevy@sandiego.edu
