@@ -753,3 +753,7 @@ Name, Organization, and (optionally) Contact Info
 * Georgiana Haldeman, Colgate University
   * Github: georgianahaldeman
   * Email: ghaldeman@colgate.edu
+ 
+* Saheed Popoola, University of Cincinnati
+  * Github: sopopoola
+  * Email: saheed.popoola@uc.edu
