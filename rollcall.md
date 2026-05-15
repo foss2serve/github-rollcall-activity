@@ -749,3 +749,7 @@ Name, Organization, and (optionally) Contact Info
 * Sophia Krause-Levy, University of San Diego
   * Github: skrauselevy
   * Email: skrauselevy@sandiego.edu
+
+* Georgiana Haldeman, Colgate University
+  * Github: georgianahaldeman
+  * Email: ghaldeman@colgate.edu
