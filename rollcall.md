@@ -757,3 +757,6 @@ Name, Organization, and (optionally) Contact Info
 * Saheed Popoola, University of Cincinnati
   * Github: sopopoola
   * Email: saheed.popoola@uc.edu
+* Felicia Doswell, Norfolk State University
+  * Github: fdoswell
+  * Email: fdoswell@nsu.edu
