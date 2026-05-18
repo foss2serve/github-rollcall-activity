@@ -757,3 +757,7 @@ Name, Organization, and (optionally) Contact Info
 * Saheed Popoola, University of Cincinnati
   * Github: sopopoola
   * Email: saheed.popoola@uc.edu
+
+* Nur Imtiazul Haque, Northern Illinois University
+  * Github: nurimtiazulhaque007
+  * Email: nhaque@niu.edu
