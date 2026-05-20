@@ -5,6 +5,9 @@ Rollcall
 
 Name, Organization, and (optionally) Contact Info
 -------------------------------------------------
+* Swamy Narayan Jignaas Pattipati, University of Connecticut
+	* GitHub: psnjignaas
+	* Email : psnjignaas@uconn.edu
 * Christelle Scharff, Pace University
   * GitHub: scharffc
   * Email: cscharff@pace.edu
