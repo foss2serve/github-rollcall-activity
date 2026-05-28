@@ -5,6 +5,10 @@ Rollcall
 
 Name, Organization, and (optionally) Contact Info
 -------------------------------------------------
+* Alex Steiger, Duke University	
+	* GitHub: ajsteiger
+ 	* Email: asteiger@cs.duke.edu
+     
 * Swamy Narayan Jignaas Pattipati, University of Connecticut
 	* GitHub: psnjignaas
 	* Email : psnjignaas@uconn.edu
