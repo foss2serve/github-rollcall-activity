@@ -768,3 +768,7 @@ Name, Organization, and (optionally) Contact Info
 * Nur Imtiazul Haque, Northern Illinois University
   * Github: nurimtiazulhaque007
   * Email: nhaque@niu.edu
+ 
+* Jennifer Olsen, University of San Diego
+  * Github: jkolsen
+  * Email: jenniferolsen@sandiego.edu
