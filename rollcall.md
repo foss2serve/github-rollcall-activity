@@ -5,6 +5,10 @@ Rollcall
 
 Name, Organization, and (optionally) Contact Info
 -------------------------------------------------
+* Alvin Chao, James Madison University	
+	* GitHub: chaoaj
+ 	* Email: chaoaj@jmu.edu
+	
 * Alex Steiger, Duke University	
 	* GitHub: ajsteiger
  	* Email: asteiger@cs.duke.edu
