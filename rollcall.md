@@ -5,6 +5,13 @@ Rollcall
 
 Name, Organization, and (optionally) Contact Info
 -------------------------------------------------
+* Alex Steiger, Duke University	
+	* GitHub: ajsteiger
+ 	* Email: asteiger@cs.duke.edu
+     
+* Swamy Narayan Jignaas Pattipati, University of Connecticut
+	* GitHub: psnjignaas
+	* Email : psnjignaas@uconn.edu
 * Christelle Scharff, Pace University
   * GitHub: scharffc
   * Email: cscharff@pace.edu
@@ -757,6 +764,15 @@ Name, Organization, and (optionally) Contact Info
 * Saheed Popoola, University of Cincinnati
   * Github: sopopoola
   * Email: saheed.popoola@uc.edu
+ 
 * Felicia Doswell, Norfolk State University
   * Github: fdoswell
   * Email: fdoswell@nsu.edu
+
+* Nur Imtiazul Haque, Northern Illinois University
+  * Github: nurimtiazulhaque007
+  * Email: nhaque@niu.edu
+ 
+* Jennifer Olsen, University of San Diego
+  * Github: jkolsen
+  * Email: jenniferolsen@sandiego.edu
